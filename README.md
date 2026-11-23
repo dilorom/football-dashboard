@@ -5,7 +5,8 @@ built with Python, Streamlit, Plotly, pandas and SQLite.
 Data: FIFA World Cup 2022 from StatsBomb Open Data.
 
 ## Why I built it
-(2–3 sentences: your EdgeLog story, helping coaches see progress and weak points.)
+
+My interest in sports analytics comes from developing EdgeLog, a figure skating athlete development platform inspired by my firsthand experience as athletes parent. I wanted to explore how data visualization and analytics can help coaches better understand player performance, identify strengths and weaknesses, and make more informed development decisions. This project applies that same idea to football using real World Cup 2022 data.
 
 ## Features
 - Squad overview: shots, goals, xG and goals minus xG per player
