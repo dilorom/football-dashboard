@@ -1,0 +1,1454 @@
+match_id,minute,team,player,shot_outcome,shot_statsbomb_xg,location,match_date,opponent
+3857276,2,Canada,Mark Anthony Kaye,Blocked,0.038882375,"[96.5, 40.7]",2022-12-01,Morocco
+3857276,3,Morocco,Hakim Ziyech,Goal,0.024477394,"[83.9, 45.0]",2022-12-01,Canada
+3857276,8,Morocco,Abdelhamid Sabiri,Blocked,0.02207015,"[86.8, 38.4]",2022-12-01,Canada
+3857276,9,Morocco,Sofiane Boufal,Wayward,0.06158555,"[107.0, 48.3]",2022-12-01,Canada
+3857276,14,Canada,Tajon Buchanan,Off T,0.27914461,"[113.3, 34.9]",2022-12-01,Morocco
+3857276,15,Morocco,Hakim Ziyech,Off T,0.022624016,"[97.5, 54.0]",2022-12-01,Canada
+3857276,22,Morocco,Youssef En-Nesyri,Goal,0.10405799,"[107.6, 53.2]",2022-12-01,Canada
+3857276,32,Morocco,Abdelhamid Sabiri,Blocked,0.09711841,"[107.9, 34.2]",2022-12-01,Canada
+3857276,47,Morocco,Youssef En-Nesyri,Wayward,0.094470315,"[106.8, 46.7]",2022-12-01,Canada
+3857276,57,Canada,Alphonso Davies,Off T,0.051903803,"[105.1, 41.2]",2022-12-01,Morocco
+3857276,70,Canada,Atiba Hutchinson,Post,0.086874224,"[112.2, 37.7]",2022-12-01,Morocco
+3857276,70,Canada,Alistair Johnston,Off T,0.638813,"[118.8, 41.6]",2022-12-01,Morocco
+3857271,7,England,Harry Maguire,Off T,0.23307544,"[115.4, 29.4]",2022-11-21,Iran
+3857271,26,England,Bukayo Saka,Saved,0.028282227,"[101.1, 55.3]",2022-11-21,Iran
+3857271,29,England,Mason Mount,Off T,0.06697492,"[113.4, 49.1]",2022-11-21,Iran
+3857271,31,England,Harry Maguire,Post,0.06988547,"[110.5, 40.7]",2022-11-21,Iran
+3857271,34,England,Jude Bellingham,Goal,0.08285139,"[112.0, 38.0]",2022-11-21,Iran
+3857271,42,England,Bukayo Saka,Goal,0.061030492,"[104.1, 38.5]",2022-11-21,Iran
+3857271,45,England,Raheem Sterling,Goal,0.1885282,"[111.0, 42.8]",2022-11-21,Iran
+3857271,55,Iran,Alireza Jahanbakhsh,Off T,0.11232807,"[106.4, 48.8]",2022-11-21,England
+3857271,50,England,Kieran Trippier,Blocked,0.042866398,"[93.9, 27.7]",2022-11-21,Iran
+3857271,58,England,Luke Shaw,Blocked,0.021548782,"[97.9, 25.1]",2022-11-21,Iran
+3857271,60,Iran,Saeid Ezatolahi Afagh,Off T,0.0065368367,"[83.8, 35.5]",2022-11-21,England
+3857271,61,England,Bukayo Saka,Goal,0.080026746,"[105.3, 46.3]",2022-11-21,Iran
+3857271,64,Iran,Mehdi Taremi,Goal,0.065701395,"[109.7, 48.0]",2022-11-21,England
+3857271,69,Iran,Mehdi Torabi,Blocked,0.045791544,"[103.5, 32.3]",2022-11-21,England
+3857271,69,Iran,Ahmad Nourollahi,Off T,0.028478073,"[97.8, 34.8]",2022-11-21,England
+3857271,70,England,Marcus Rashford,Goal,0.40810898,"[109.7, 47.7]",2022-11-21,Iran
+3857271,76,Iran,Mehdi Taremi,Off T,0.06202265,"[105.1, 54.6]",2022-11-21,England
+3857271,83,England,Marcus Rashford,Blocked,0.0776978,"[108.6, 50.7]",2022-11-21,Iran
+3857271,89,England,Jack Grealish,Goal,0.6262809,"[112.0, 39.9]",2022-11-21,Iran
+3857271,97,Iran,Sardar Azmoun,Saved to Post,0.35130003,"[110.9, 30.5]",2022-11-21,England
+3857271,102,Iran,Mehdi Taremi,Goal,0.7835,"[108.0, 40.0]",2022-11-21,England
+3857296,0,Croatia,Ivan Perišić,Off T,0.03397081,"[102.9, 23.8]",2022-12-01,Belgium
+3857296,9,Belgium,Yannick Ferreira Carrasco,Blocked,0.05519996,"[105.3, 27.8]",2022-12-01,Croatia
+3857296,10,Belgium,Yannick Ferreira Carrasco,Blocked,0.020840297,"[117.0, 29.2]",2022-12-01,Croatia
+3857296,12,Belgium,Dries Mertens,Off T,0.1934709,"[105.2, 33.9]",2022-12-01,Croatia
+3857296,24,Belgium,Axel Witsel,Blocked,0.025340356,"[92.7, 34.9]",2022-12-01,Croatia
+3857296,32,Croatia,Marcelo Brozović,Blocked,0.054300383,"[99.8, 36.6]",2022-12-01,Belgium
+3857296,32,Croatia,Marko Livaja,Off T,0.104244776,"[112.2, 42.5]",2022-12-01,Belgium
+3857296,41,Belgium,Dries Mertens,Wayward,0.108029366,"[116.9, 49.2]",2022-12-01,Croatia
+3857296,44,Croatia,Borna Sosa,Off T,0.024362085,"[94.9, 25.7]",2022-12-01,Belgium
+3857296,48,Croatia,Ivan Perišić,Wayward,0.08771692,"[108.5, 38.0]",2022-12-01,Belgium
+3857296,48,Croatia,Josip Juranović,Off T,0.041306578,"[103.1, 51.5]",2022-12-01,Belgium
+3857296,47,Belgium,Yannick Ferreira Carrasco,Wayward,0.026916144,"[100.9, 28.3]",2022-12-01,Croatia
+3857296,48,Belgium,Romelu Lukaku Menama,Saved,0.1189759,"[117.5, 34.2]",2022-12-01,Croatia
+3857296,49,Croatia,Mateo Kovačić,Saved,0.07960723,"[103.9, 29.2]",2022-12-01,Belgium
+3857296,49,Croatia,Borna Sosa,Off T,0.024012579,"[94.7, 35.3]",2022-12-01,Belgium
+3857296,50,Belgium,Kevin De Bruyne,Off T,0.048855886,"[100.9, 32.5]",2022-12-01,Croatia
+3857296,53,Croatia,Marcelo Brozović,Saved,0.10219261,"[100.6, 37.7]",2022-12-01,Belgium
+3857296,53,Croatia,Luka Modrić,Saved,0.071706615,"[105.6, 52.9]",2022-12-01,Belgium
+3857296,59,Belgium,Yannick Ferreira Carrasco,Blocked,0.09935363,"[112.8, 36.3]",2022-12-01,Croatia
+3857296,59,Belgium,Romelu Lukaku Menama,Post,0.19960539,"[110.7, 45.1]",2022-12-01,Croatia
+3857296,61,Belgium,Romelu Lukaku Menama,Off T,0.30245224,"[113.1, 42.1]",2022-12-01,Croatia
+3857296,67,Croatia,Luka Modrić,Saved,0.07160131,"[106.7, 39.0]",2022-12-01,Belgium
+3857296,68,Belgium,Kevin De Bruyne,Saved,0.0061408128,"[111.9, 60.4]",2022-12-01,Croatia
+3857296,77,Belgium,Jan Vertonghen,Blocked,0.07045005,"[112.6, 36.5]",2022-12-01,Croatia
+3857296,86,Belgium,Thomas Meunier,Blocked,0.04308796,"[110.5, 53.1]",2022-12-01,Croatia
+3857296,86,Belgium,Romelu Lukaku Menama,Off T,0.4909717,"[115.5, 43.8]",2022-12-01,Croatia
+3857296,89,Belgium,Romelu Lukaku Menama,Saved,0.5721495,"[117.4, 37.3]",2022-12-01,Croatia
+3857274,5,Netherlands,Cody Mathès Gakpo,Goal,0.059259485,"[100.6, 31.0]",2022-11-25,Ecuador
+3857274,10,Ecuador,Enner Remberto Valencia Lastra,Blocked,0.062208217,"[107.0, 30.0]",2022-11-25,Netherlands
+3857274,23,Ecuador,Moisés Isaac Caicedo Corozo,Blocked,0.030668529,"[94.8, 37.9]",2022-11-25,Netherlands
+3857274,26,Ecuador,Michael Steveen Estrada Martínez,Wayward,0.069653474,"[112.1, 34.6]",2022-11-25,Netherlands
+3857274,31,Ecuador,Enner Remberto Valencia Lastra,Saved,0.029882463,"[100.6, 23.5]",2022-11-25,Netherlands
+3857274,46,Ecuador,Enner Remberto Valencia Lastra,Blocked,0.024015462,"[110.2, 47.9]",2022-11-25,Netherlands
+3857274,47,Ecuador,Angelo Smit Preciado Quiñónez,Blocked,0.022953799,"[100.6, 54.0]",2022-11-25,Netherlands
+3857274,47,Ecuador,Pervis Josué Estupiñán Tenorio,Wayward,0.18923391,"[112.0, 44.1]",2022-11-25,Netherlands
+3857274,48,Ecuador,Pervis Josué Estupiñán Tenorio,Saved,0.08083876,"[105.8, 28.7]",2022-11-25,Netherlands
+3857274,48,Ecuador,Enner Remberto Valencia Lastra,Goal,0.790909,"[116.0, 38.1]",2022-11-25,Netherlands
+3857274,58,Ecuador,Enner Remberto Valencia Lastra,Blocked,0.09564507,"[102.0, 37.5]",2022-11-25,Netherlands
+3857274,58,Ecuador,Gonzalo Jordy Plata Jiménez,Post,0.046335444,"[104.2, 52.6]",2022-11-25,Netherlands
+3857274,63,Ecuador,Michael Steveen Estrada Martínez,Wayward,0.13418972,"[105.1, 38.0]",2022-11-25,Netherlands
+3857274,65,Netherlands,Teun Koopmeiners,Off T,0.04520454,"[96.5, 40.9]",2022-11-25,Ecuador
+3857274,72,Ecuador,Moisés Isaac Caicedo Corozo,Blocked,0.03323832,"[103.2, 29.4]",2022-11-25,Netherlands
+3857274,80,Ecuador,Angelo Smit Preciado Quiñónez,Off T,0.007451811,"[95.3, 57.9]",2022-11-25,Netherlands
+3857274,91,Ecuador,Angelo Smit Preciado Quiñónez,Saved,0.033830326,"[98.9, 38.2]",2022-11-25,Netherlands
+3857255,6,Spain,Sergio Busquets i Burgos,Off T,0.03268242,"[97.0, 46.1]",2022-12-01,Japan
+3857255,7,Japan,Junya Ito,Off T,0.04214545,"[114.0, 53.5]",2022-12-01,Spain
+3857255,8,Spain,Álvaro Borja Morata Martín,Saved,0.06376064,"[109.9, 35.6]",2022-12-01,Japan
+3857255,11,Spain,Álvaro Borja Morata Martín,Goal,0.33106714,"[115.3, 38.3]",2022-12-01,Japan
+3857255,22,Spain,Álvaro Borja Morata Martín,Saved,0.10093839,"[104.7, 51.6]",2022-12-01,Japan
+3857255,35,Japan,Daichi Kamada,Blocked,0.03356069,"[107.0, 54.5]",2022-12-01,Spain
+3857255,41,Spain,Daniel Olmo Carvajal,Blocked,0.10385344,"[102.8, 35.2]",2022-12-01,Japan
+3857255,47,Japan,Ritsu Doan,Goal,0.027777622,"[100.5, 55.8]",2022-12-01,Spain
+3857255,50,Japan,Ao Tanaka,Goal,0.87261814,"[118.7, 40.2]",2022-12-01,Spain
+3857255,69,Japan,Takuma Asano,Off T,0.13121767,"[100.5, 36.3]",2022-12-01,Spain
+3857255,73,Spain,Marco Asensio Willemsen,Blocked,0.016301522,"[104.8, 23.5]",2022-12-01,Japan
+3857255,79,Spain,Daniel Olmo Carvajal,Blocked,0.01649772,"[86.3, 46.3]",2022-12-01,Japan
+3857255,82,Japan,Ko Itakura,Saved,0.0504811,"[104.0, 39.0]",2022-12-01,Spain
+3857255,84,Spain,Marco Asensio Willemsen,Blocked,0.02842248,"[96.8, 52.1]",2022-12-01,Japan
+3857255,88,Spain,Jordi Alba Ramos,Blocked,0.0241939,"[97.9, 27.0]",2022-12-01,Japan
+3857255,88,Spain,Marco Asensio Willemsen,Saved,0.007735879,"[94.8, 61.9]",2022-12-01,Japan
+3857255,89,Spain,Daniel Olmo Carvajal,Saved,0.12373556,"[111.0, 52.0]",2022-12-01,Japan
+3857255,95,Spain,Daniel Olmo Carvajal,Off T,0.008523117,"[94.2, 57.0]",2022-12-01,Japan
+3857272,9,England,Harry Kane,Blocked,0.10607713,"[108.9, 42.6]",2022-11-25,United States
+3857272,9,England,John Stones,Wayward,0.04222343,"[109.2, 38.6]",2022-11-25,United States
+3857272,10,England,Mason Mount,Off T,0.019677445,"[94.2, 27.2]",2022-11-25,United States
+3857272,16,United States,Haji Wright,Off T,0.048006557,"[108.1, 43.9]",2022-11-25,England
+3857272,25,United States,Weston McKennie,Off T,0.18268152,"[110.5, 39.5]",2022-11-25,England
+3857272,28,United States,Yunus Dimoara Musah,Saved,0.016826272,"[93.0, 25.1]",2022-11-25,England
+3857272,32,United States,Christian Pulisic,Post,0.023374733,"[106.4, 24.4]",2022-11-25,England
+3857272,40,United States,Sergino Dest,Blocked,0.056137927,"[108.6, 51.2]",2022-11-25,England
+3857272,42,United States,Christian Pulisic,Off T,0.05394238,"[110.0, 42.8]",2022-11-25,England
+3857272,44,England,Bukayo Saka,Off T,0.08680134,"[113.2, 36.1]",2022-11-25,United States
+3857272,45,England,Mason Mount,Saved,0.0710417,"[100.1, 32.9]",2022-11-25,United States
+3857272,48,United States,Haji Wright,Blocked,0.0422633,"[106.5, 28.3]",2022-11-25,England
+3857272,48,United States,Weston McKennie,Off T,0.032319076,"[99.2, 53.9]",2022-11-25,England
+3857272,57,United States,Christian Pulisic,Blocked,0.025169194,"[98.8, 24.7]",2022-11-25,England
+3857272,61,United States,Christian Pulisic,Blocked,0.033566043,"[95.3, 40.1]",2022-11-25,England
+3857272,86,England,Marcus Rashford,Saved,0.009332121,"[105.3, 20.7]",2022-11-25,United States
+3857272,90,England,Harry Maguire,Saved,0.05556727,"[109.9, 37.5]",2022-11-25,United States
+3857272,92,England,Harry Kane,Off T,0.06991791,"[111.2, 40.8]",2022-11-25,United States
+3857278,8,United States,Yunus Dimoara Musah,Off T,0.045798708,"[100.5, 38.2]",2022-11-29,Iran
+3857278,10,United States,Christian Pulisic,Saved,0.080380306,"[110.1, 35.6]",2022-11-29,Iran
+3857278,27,United States,Joshua Sargent,Blocked,0.040954046,"[99.0, 32.1]",2022-11-29,Iran
+3857278,27,United States,Timothy Weah,Saved,0.12157792,"[109.7, 35.9]",2022-11-29,Iran
+3857278,29,United States,Sergino Dest,Blocked,0.05512647,"[101.3, 48.2]",2022-11-29,Iran
+3857278,32,United States,Timothy Weah,Off T,0.04585104,"[108.7, 54.1]",2022-11-29,Iran
+3857278,36,United States,Sergino Dest,Blocked,0.043695714,"[102.0, 50.5]",2022-11-29,Iran
+3857278,37,United States,Christian Pulisic,Goal,0.5303789,"[115.1, 38.7]",2022-11-29,Iran
+3857278,41,United States,Joshua Sargent,Wayward,0.011004616,"[114.2, 56.9]",2022-11-29,Iran
+3857278,46,United States,Joshua Sargent,Saved,0.05674209,"[110.0, 25.2]",2022-11-29,Iran
+3857278,51,Iran,Saman Ghoddos,Off T,0.39133456,"[114.1, 38.7]",2022-11-29,United States
+3857278,68,United States,Yunus Dimoara Musah,Off T,0.080397844,"[97.0, 43.3]",2022-11-29,Iran
+3857278,69,Iran,Saeid Ezatolahi Afagh,Off T,0.006830182,"[90.8, 21.8]",2022-11-29,United States
+3857278,92,Iran,Morteza Pouraliganji,Off T,0.21722858,"[111.0, 35.6]",2022-11-29,United States
+3857278,97,Iran,Mehdi Taremi,Saved,0.30539662,"[111.1, 39.5]",2022-11-29,United States
+3857278,99,United States,Haji Wright,Saved,0.057746947,"[105.1, 23.9]",2022-11-29,Iran
+3857277,6,Morocco,Noussair Mazraoui,Blocked,0.026111592,"[96.9, 32.0]",2022-11-23,Croatia
+3857277,12,Morocco,Hakim Ziyech,Blocked,0.052363984,"[101.9, 43.3]",2022-11-23,Croatia
+3857277,16,Croatia,Ivan Perišić,Off T,0.00976612,"[82.9, 33.6]",2022-11-23,Morocco
+3857277,18,Morocco,Sofiane Boufal,Blocked,0.04188839,"[96.7, 46.7]",2022-11-23,Croatia
+3857277,20,Morocco,Hakim Ziyech,Blocked,0.06625415,"[94.5, 37.4]",2022-11-23,Croatia
+3857277,24,Morocco,Youssef En-Nesyri,Blocked,0.03416934,"[117.8, 31.5]",2022-11-23,Croatia
+3857277,45,Croatia,Nikola Vlašić,Saved,0.44776994,"[114.7, 35.7]",2022-11-23,Morocco
+3857277,46,Croatia,Nikola Vlašić,Blocked,0.06879163,"[105.2, 33.9]",2022-11-23,Morocco
+3857277,46,Croatia,Luka Modrić,Off T,0.073204115,"[98.8, 39.3]",2022-11-23,Morocco
+3857277,50,Morocco,Sofiane Boufal,Blocked,0.042848527,"[94.0, 38.6]",2022-11-23,Croatia
+3857277,50,Morocco,Noussair Mazraoui,Saved,0.07962643,"[115.3, 29.2]",2022-11-23,Croatia
+3857277,51,Croatia,Dejan Lovren,Blocked,0.2503287,"[112.7, 38.8]",2022-11-23,Morocco
+3857277,64,Morocco,Achraf Hakimi Mouh,Saved,0.019376563,"[88.5, 31.5]",2022-11-23,Croatia
+3857273,2,Wales,Neco Williams,Off T,0.023614733,"[99.5, 23.0]",2022-11-25,Iran
+3857273,6,Iran,Sardar Azmoun,Saved,0.035244513,"[97.2, 31.2]",2022-11-25,Wales
+3857273,11,Wales,Kieffer Roberto Francisco Moore,Saved,0.12850787,"[111.6, 44.5]",2022-11-25,Iran
+3857273,19,Iran,Ahmad Nourollahi,Blocked,0.017788952,"[95.5, 34.0]",2022-11-25,Wales
+3857273,22,Iran,Sardar Azmoun,Off T,0.07202582,"[109.6, 34.7]",2022-11-25,Wales
+3857273,28,Wales,Gareth Frank Bale,Saved,0.02170084,"[88.9, 36.5]",2022-11-25,Iran
+3857273,41,Wales,Harry Wilson,Blocked,0.030164797,"[105.5, 25.4]",2022-11-25,Iran
+3857273,48,Iran,Mehdi Taremi,Wayward,0.08566745,"[105.7, 38.8]",2022-11-25,Wales
+3857273,49,Iran,Ahmad Nourollahi,Saved,0.011584845,"[86.4, 48.2]",2022-11-25,Wales
+3857273,50,Iran,Sardar Azmoun,Post,0.28799564,"[110.0, 49.7]",2022-11-25,Wales
+3857273,51,Iran,Ali Gholizadeh,Post,0.04282673,"[97.2, 48.0]",2022-11-25,Wales
+3857273,51,Iran,Sardar Azmoun,Saved,0.21401532,"[111.0, 36.2]",2022-11-25,Wales
+3857273,52,Wales,Kieffer Roberto Francisco Moore,Off T,0.22100283,"[114.4, 39.9]",2022-11-25,Iran
+3857273,55,Iran,Ehsan Hajsafi,Blocked,0.068153165,"[104.6, 33.1]",2022-11-25,Wales
+3857273,63,Iran,Mehdi Taremi,Blocked,0.075855605,"[107.1, 29.4]",2022-11-25,Wales
+3857273,69,Iran,Ahmad Nourollahi,Blocked,0.015279148,"[90.5, 45.6]",2022-11-25,Wales
+3857273,71,Iran,Morteza Pouraliganji,Blocked,0.05160931,"[100.8, 38.5]",2022-11-25,Wales
+3857273,72,Iran,Saeid Ezatolahi Afagh,Saved,0.047915842,"[99.5, 49.3]",2022-11-25,Wales
+3857273,74,Iran,Ahmad Nourollahi,Blocked,0.0072957636,"[85.8, 53.5]",2022-11-25,Wales
+3857273,82,Wales,Aaron Ramsey,Wayward,0.025361432,"[104.0, 53.9]",2022-11-25,Iran
+3857273,82,Wales,Neco Williams,Blocked,0.031851415,"[98.6, 51.1]",2022-11-25,Iran
+3857273,82,Wales,Ben Davies,Saved,0.053537875,"[101.7, 30.8]",2022-11-25,Iran
+3857273,87,Iran,Karim Ansarifard,Blocked,0.06399969,"[99.5, 36.2]",2022-11-25,Wales
+3857273,87,Iran,Mehdi Torabi,Off T,0.051057886,"[99.1, 39.0]",2022-11-25,Wales
+3857273,95,Wales,Neco Williams,Wayward,0.020104993,"[89.9, 45.0]",2022-11-25,Iran
+3857273,95,Wales,Brennan Johnson,Saved Off Target,0.059788406,"[114.4, 52.4]",2022-11-25,Iran
+3857273,95,Iran,Ramin Rezaeian,Blocked,0.031046849,"[98.3, 52.1]",2022-11-25,Wales
+3857273,96,Iran,Alireza Jahanbakhsh,Blocked,0.031239294,"[99.2, 46.5]",2022-11-25,Wales
+3857273,97,Iran,Alireza Jahanbakhsh,Blocked,0.011336825,"[91.4, 24.9]",2022-11-25,Wales
+3857273,97,Iran,Roozbeh Cheshmi,Goal,0.03268815,"[95.1, 37.5]",2022-11-25,Wales
+3857273,100,Iran,Ramin Rezaeian,Goal,0.19933115,"[104.8, 45.3]",2022-11-25,Wales
+3857275,24,France,Kingsley Coman,Off T,0.08786314,"[112.3, 29.9]",2022-11-30,Tunisia
+3857275,29,Tunisia,Anis Ben Slimane,Saved,0.1007914,"[110.9, 41.0]",2022-11-30,France
+3857275,34,Tunisia,Wahbi Khazri,Saved,0.016592033,"[95.1, 52.3]",2022-11-30,France
+3857275,46,France,Youssouf Fofana,Blocked,0.041162748,"[99.9, 53.4]",2022-11-30,Tunisia
+3857275,46,Tunisia,Wahbi Khazri,Off T,0.010898009,"[97.9, 19.8]",2022-11-30,France
+3857275,51,Tunisia,Aïssa Bilal Laïdouni,Off T,0.013856714,"[114.8, 22.4]",2022-11-30,France
+3857275,57,Tunisia,Wahbi Khazri,Goal,0.15620883,"[103.3, 37.8]",2022-11-30,France
+3857275,79,France,Axel Disasi,Blocked,0.061025612,"[111.3, 41.5]",2022-11-30,Tunisia
+3857275,81,France,Adrien Rabiot,Wayward,0.080746524,"[113.8, 47.7]",2022-11-30,Tunisia
+3857275,81,France,Ousmane Dembélé,Saved,0.020325886,"[95.9, 53.5]",2022-11-30,Tunisia
+3857275,84,France,Adrien Rabiot,Wayward,0.06369618,"[108.7, 29.1]",2022-11-30,Tunisia
+3857275,88,France,Kylian Mbappé Lottin,Saved,0.01194291,"[116.8, 24.7]",2022-11-30,Tunisia
+3857275,89,France,Randal Kolo Muani,Blocked,0.041042205,"[96.4, 37.1]",2022-11-30,Tunisia
+3857275,92,France,Kylian Mbappé Lottin,Blocked,0.06416701,"[95.6, 30.2]",2022-11-30,Tunisia
+3857275,92,France,Kylian Mbappé Lottin,Saved,0.005017159,"[87.6, 15.0]",2022-11-30,Tunisia
+3857261,9,England,Marcus Rashford,Saved,0.28441095,"[104.0, 39.5]",2022-11-29,Wales
+3857261,14,England,Phil Foden,Off T,0.02354375,"[97.4, 54.6]",2022-11-29,Wales
+3857261,17,England,Harry Maguire,Off T,0.01084097,"[120.0, 54.6]",2022-11-29,Wales
+3857261,23,England,Marcus Rashford,Blocked,0.010357286,"[98.2, 19.5]",2022-11-29,Wales
+3857261,37,England,Phil Foden,Off T,0.05725451,"[105.5, 47.4]",2022-11-29,Wales
+3857261,38,Wales,Joe Allen,Blocked,0.022615774,"[94.1, 47.0]",2022-11-29,England
+3857261,38,England,Marcus Rashford,Off T,0.081256144,"[108.4, 35.0]",2022-11-29,Wales
+3857261,43,England,Harry Kane,Blocked,0.028181294,"[101.5, 35.7]",2022-11-29,Wales
+3857261,47,England,Harry Kane,Blocked,0.030065771,"[101.2, 27.6]",2022-11-29,Wales
+3857261,47,England,John Stones,Saved,0.006450981,"[112.8, 55.4]",2022-11-29,Wales
+3857261,49,Wales,Joe Allen,Off T,0.04109325,"[100.7, 51.3]",2022-11-29,England
+3857261,49,England,Marcus Rashford,Goal,0.05780817,"[96.1, 29.3]",2022-11-29,Wales
+3857261,50,England,Phil Foden,Goal,0.44030064,"[114.5, 34.1]",2022-11-29,Wales
+3857261,55,Wales,Kieffer Roberto Francisco Moore,Saved,0.00753591,"[90.1, 22.3]",2022-11-29,England
+3857261,67,England,Marcus Rashford,Goal,0.096602984,"[109.9, 50.3]",2022-11-29,Wales
+3857261,71,England,Marcus Rashford,Saved,0.13184288,"[110.3, 52.4]",2022-11-29,Wales
+3857261,72,Wales,Brennan Johnson,Blocked,0.02192258,"[104.5, 57.3]",2022-11-29,England
+3857261,76,England,Jude Bellingham,Saved,0.25030845,"[104.3, 32.8]",2022-11-29,Wales
+3857261,76,England,Jude Bellingham,Wayward,0.24362406,"[112.7, 29.3]",2022-11-29,Wales
+3857261,76,England,Phil Foden,Off T,0.6100251,"[116.1, 39.5]",2022-11-29,Wales
+3857261,82,Wales,Harry Wilson,Blocked,0.031328887,"[92.6, 52.6]",2022-11-29,England
+3857261,83,Wales,Rubin Colwill,Off T,0.025066664,"[98.3, 26.1]",2022-11-29,England
+3857261,86,Wales,Kieffer Roberto Francisco Moore,Off T,0.058446433,"[102.1, 34.6]",2022-11-29,England
+3857261,90,England,John Stones,Post,0.45507616,"[114.4, 43.9]",2022-11-29,Wales
+3857261,93,England,Phil Foden,Blocked,0.09753507,"[111.0, 48.5]",2022-11-29,Wales
+3857290,9,Cameroon,Bryan Mbeumo,Saved,0.016072592,"[109.4, 22.7]",2022-11-24,Switzerland
+3857290,9,Cameroon,Karl Brillant Toko Ekambi,Off T,0.15900026,"[108.7, 32.1]",2022-11-24,Switzerland
+3857290,11,Switzerland,Granit Xhaka,Off T,0.012105021,"[88.1, 28.2]",2022-11-24,Cameroon
+3857290,25,Cameroon,Ngoran Suiru Fai Collins,Off T,0.009452554,"[98.8, 59.8]",2022-11-24,Switzerland
+3857290,29,Cameroon,Martin Hongla Yma II,Saved,0.08237888,"[110.6, 53.8]",2022-11-24,Switzerland
+3857290,39,Switzerland,Nico Elvedi,Off T,0.19001445,"[113.3, 38.7]",2022-11-24,Cameroon
+3857290,40,Cameroon,Jean-Eric Maxim Choupo-Moting,Blocked,0.041722767,"[105.2, 53.5]",2022-11-24,Switzerland
+3857290,45,Switzerland,Manuel Obafemi Akanji,Off T,0.15555824,"[114.7, 38.7]",2022-11-24,Cameroon
+3857290,47,Switzerland,Breel-Donald Embolo,Goal,0.55189455,"[111.9, 39.5]",2022-11-24,Cameroon
+3857290,49,Cameroon,Nicolas Alexis Julio N'Koulou Ndoubena,Saved,0.24569963,"[116.1, 35.1]",2022-11-24,Switzerland
+3857290,56,Cameroon,Jean-Eric Maxim Choupo-Moting,Saved,0.0123953605,"[119.2, 47.9]",2022-11-24,Switzerland
+3857290,65,Cameroon,André-Frank Zambo Anguissa,Saved,0.046351306,"[107.5, 44.3]",2022-11-24,Switzerland
+3857290,65,Switzerland,Ruben Vargas,Saved,0.1977995,"[107.5, 41.8]",2022-11-24,Cameroon
+3857290,88,Switzerland,Granit Xhaka,Saved,0.048882935,"[96.2, 37.3]",2022-11-24,Cameroon
+3857290,94,Switzerland,Haris Seferović,Blocked,0.27028984,"[108.0, 45.8]",2022-11-24,Cameroon
+3857298,4,Portugal,Otávio Edmilson da Silva Monteiro,Off T,0.02513017,"[96.6, 34.3]",2022-11-24,Ghana
+3857298,5,Portugal,Rúben Diogo Da Silva Neves,Blocked,0.07171052,"[98.1, 36.6]",2022-11-24,Ghana
+3857298,9,Portugal,Cristiano Ronaldo dos Santos Aveiro,Saved,0.4577736,"[107.7, 39.2]",2022-11-24,Ghana
+3857298,12,Portugal,Cristiano Ronaldo dos Santos Aveiro,Off T,0.2074416,"[116.3, 43.7]",2022-11-24,Ghana
+3857298,27,Portugal,João Félix Sequeira,Off T,0.07848694,"[104.2, 35.6]",2022-11-24,Ghana
+3857298,35,Portugal,Otávio Edmilson da Silva Monteiro,Saved,0.045895047,"[99.9, 32.5]",2022-11-24,Ghana
+3857298,41,Portugal,Cristiano Ronaldo dos Santos Aveiro,Blocked,0.030432492,"[110.0, 25.1]",2022-11-24,Ghana
+3857298,53,Ghana,Alidu Seidu,Off T,0.015372672,"[88.8, 44.2]",2022-11-24,Portugal
+3857298,54,Ghana,Mohammed Kudus,Off T,0.030134441,"[92.9, 31.0]",2022-11-24,Portugal
+3857298,64,Portugal,Cristiano Ronaldo dos Santos Aveiro,Goal,0.7835,"[108.1, 40.1]",2022-11-24,Ghana
+3857298,66,Ghana,Iñaki Williams Arthuer,Blocked,0.020453067,"[91.1, 47.3]",2022-11-24,Portugal
+3857298,68,Ghana,Thomas Teye Partey,Off T,0.021057075,"[92.4, 52.5]",2022-11-24,Portugal
+3857298,71,Ghana,Mohammed Kudus,Saved,0.02159481,"[90.8, 34.5]",2022-11-24,Portugal
+3857298,72,Ghana,André Ayew Pelé,Goal,0.48524466,"[115.6, 39.8]",2022-11-24,Portugal
+3857298,77,Portugal,João Félix Sequeira,Goal,0.21504128,"[107.5, 52.6]",2022-11-24,Ghana
+3857298,79,Portugal,Rafael Alexandre Conceição Leão,Goal,0.15539157,"[111.7, 28.3]",2022-11-24,Ghana
+3857298,88,Ghana,Osman Bukari,Goal,0.15547352,"[113.5, 40.2]",2022-11-24,Portugal
+3857298,91,Ghana,Mohamed Salisu,Off T,0.02431712,"[106.9, 30.6]",2022-11-24,Portugal
+3857298,95,Portugal,Rafael Alexandre Conceição Leão,Blocked,0.026070174,"[95.5, 29.9]",2022-11-24,Ghana
+3857298,97,Ghana,Osman Bukari,Off T,0.0063759447,"[103.3, 12.6]",2022-11-24,Portugal
+3857285,0,Senegal,Boulaye Dia,Blocked,0.034865376,"[107.0, 27.1]",2022-11-21,Netherlands
+3857285,3,Netherlands,Vincent Janssen,Blocked,0.12169348,"[103.2, 34.3]",2022-11-21,Senegal
+3857285,8,Senegal,Ismaïla Sarr,Off T,0.059537582,"[97.5, 44.1]",2022-11-21,Netherlands
+3857285,16,Netherlands,Daley Blind,Off T,0.04866169,"[112.8, 32.9]",2022-11-21,Senegal
+3857285,18,Netherlands,Vincent Janssen,Blocked,0.03382374,"[98.3, 44.3]",2022-11-21,Senegal
+3857285,24,Senegal,Ismaïla Sarr,Blocked,0.034923773,"[102.7, 25.9]",2022-11-21,Netherlands
+3857285,26,Netherlands,Virgil van Dijk,Off T,0.045367446,"[109.4, 38.0]",2022-11-21,Senegal
+3857285,28,Senegal,Idrissa Gana Gueye,Blocked,0.025139945,"[100.9, 48.4]",2022-11-21,Netherlands
+3857285,28,Senegal,Krépin Diatta,Off T,0.03131155,"[100.0, 56.6]",2022-11-21,Netherlands
+3857285,32,Senegal,Youssouf Sabaly,Saved,0.0068181115,"[84.7, 54.0]",2022-11-21,Netherlands
+3857285,39,Netherlands,Steven Berghuis,Off T,0.030127633,"[97.2, 47.3]",2022-11-21,Senegal
+3857285,52,Netherlands,Virgil van Dijk,Off T,0.06871433,"[111.1, 40.2]",2022-11-21,Senegal
+3857285,53,Senegal,Youssouf Sabaly,Blocked,0.011074076,"[96.9, 57.9]",2022-11-21,Netherlands
+3857285,57,Senegal,Krépin Diatta,Wayward,0.058196757,"[115.2, 50.5]",2022-11-21,Netherlands
+3857285,59,Netherlands,Steven Berghuis,Blocked,0.038496487,"[95.3, 32.8]",2022-11-21,Senegal
+3857285,64,Senegal,Boulaye Dia,Saved,0.04221427,"[107.6, 56.5]",2022-11-21,Netherlands
+3857285,72,Senegal,Idrissa Gana Gueye,Saved,0.06520781,"[103.3, 40.4]",2022-11-21,Netherlands
+3857285,74,Senegal,Cheikh Ahmadou Bamba Mbacke Dieng,Off T,0.07416881,"[104.3, 31.7]",2022-11-21,Netherlands
+3857285,81,Senegal,Ismaïla Sarr,Off T,0.06430619,"[111.3, 40.6]",2022-11-21,Netherlands
+3857285,83,Netherlands,Cody Mathès Gakpo,Goal,0.28603274,"[112.3, 39.0]",2022-11-21,Senegal
+3857285,85,Senegal,Pape Gueye,Saved,0.008650101,"[93.8, 56.8]",2022-11-21,Netherlands
+3857285,91,Senegal,Ismail Jakobs,Off T,0.014392905,"[91.0, 27.5]",2022-11-21,Netherlands
+3857285,92,Senegal,Cheikh Ahmadou Bamba Mbacke Dieng,Off T,0.16068545,"[112.8, 35.7]",2022-11-21,Netherlands
+3857285,98,Netherlands,Memphis Depay,Saved,0.102816984,"[101.2, 50.1]",2022-11-21,Senegal
+3857285,98,Netherlands,Davy Klaassen,Goal,0.34814927,"[109.5, 34.8]",2022-11-21,Senegal
+3857282,9,United States,Joshua Sargent,Post,0.25332773,"[116.0, 35.3]",2022-11-21,Wales
+3857282,13,Wales,Ethan Ampadu,Off T,0.013776194,"[87.6, 43.1]",2022-11-21,United States
+3857282,28,United States,Sergino Dest,Off T,0.0066337776,"[90.9, 56.6]",2022-11-21,Wales
+3857282,35,United States,Timothy Weah,Goal,0.20100605,"[107.7, 37.8]",2022-11-21,Wales
+3857282,44,Wales,Ben Davies,Off T,0.14399761,"[114.7, 37.5]",2022-11-21,United States
+3857282,60,Wales,Kieffer Roberto Francisco Moore,Blocked,0.032130886,"[93.4, 42.2]",2022-11-21,United States
+3857282,63,Wales,Ben Davies,Saved,0.18666926,"[109.2, 38.3]",2022-11-21,United States
+3857282,64,Wales,Kieffer Roberto Francisco Moore,Off T,0.19270518,"[116.3, 43.4]",2022-11-21,United States
+3857282,74,United States,Haji Wright,Off T,0.027433796,"[106.6, 46.9]",2022-11-21,Wales
+3857282,76,United States,Brenden Aaronson,Off T,0.09428854,"[116.3, 46.7]",2022-11-21,Wales
+3857282,81,Wales,Gareth Frank Bale,Goal,0.7835,"[108.0, 40.0]",2022-11-21,United States
+3857282,88,Wales,Brennan Johnson,Saved,0.042556882,"[109.9, 56.2]",2022-11-21,United States
+3857282,91,United States,Tyler Adams,Blocked,0.019808901,"[92.8, 35.5]",2022-11-21,Wales
+3857297,7,Saudi Arabia,Mohammed Al Burayk,Blocked,0.012477021,"[91.6, 24.8]",2022-11-26,Poland
+3857297,12,Saudi Arabia,Mohammed Kanoo,Saved,0.03839731,"[105.5, 54.5]",2022-11-26,Poland
+3857297,25,Poland,Krystian Bielik,Blocked,0.075333446,"[111.7, 39.3]",2022-11-26,Saudi Arabia
+3857297,32,Saudi Arabia,Saleh Khalid Al Shehri,Wayward,0.044610713,"[108.5, 45.0]",2022-11-26,Poland
+3857297,38,Poland,Piotr Zieliński,Goal,0.23496674,"[111.9, 44.7]",2022-11-26,Saudi Arabia
+3857297,40,Poland,Robert Lewandowski,Wayward,0.009729679,"[112.9, 58.5]",2022-11-26,Saudi Arabia
+3857297,45,Saudi Arabia,Salem Mohammed Al Dawsari,Saved,0.7835,"[108.1, 40.1]",2022-11-26,Poland
+3857297,45,Saudi Arabia,Mohammed Al Burayk,Saved,0.35719204,"[112.7, 32.9]",2022-11-26,Poland
+3857297,50,Saudi Arabia,Saud Abdullah Abdul Hamid,Blocked,0.005913877,"[85.9, 24.5]",2022-11-26,Poland
+3857297,50,Saudi Arabia,Mohammed Kanoo,Off T,0.03705331,"[104.2, 39.3]",2022-11-26,Poland
+3857297,53,Saudi Arabia,Salem Mohammed Al Dawsari,Off T,0.010959039,"[97.6, 21.6]",2022-11-26,Poland
+3857297,54,Saudi Arabia,Salem Mohammed Al Dawsari,Saved,0.16438472,"[114.6, 36.1]",2022-11-26,Poland
+3857297,54,Saudi Arabia,Abdulelah Saad Hameed Al-Malki,Off T,0.0391187,"[97.0, 40.0]",2022-11-26,Poland
+3857297,59,Saudi Arabia,Firas Tariq Nasser Al Albirakan,Off T,0.11089649,"[112.9, 27.5]",2022-11-26,Poland
+3857297,60,Saudi Arabia,Mohammed Kanoo,Off T,0.07597345,"[107.3, 49.4]",2022-11-26,Poland
+3857297,62,Poland,Arkadiusz Milik,Post,0.13519733,"[111.0, 38.8]",2022-11-26,Saudi Arabia
+3857297,65,Poland,Robert Lewandowski,Post,0.25903136,"[115.1, 44.4]",2022-11-26,Saudi Arabia
+3857297,67,Saudi Arabia,Nawaf Shaker Al Abid,Blocked,0.0660456,"[95.1, 46.7]",2022-11-26,Poland
+3857297,68,Saudi Arabia,Salem Mohammed Al Dawsari,Saved,0.03677261,"[96.0, 34.2]",2022-11-26,Poland
+3857297,72,Poland,Robert Lewandowski,Blocked,0.09536816,"[107.3, 49.0]",2022-11-26,Saudi Arabia
+3857297,77,Saudi Arabia,Abdulelah Saad Hameed Al-Malki,Off T,0.10027991,"[103.2, 34.7]",2022-11-26,Poland
+3857297,80,Poland,Krzysztof Piątek,Off T,0.02819521,"[107.4, 41.4]",2022-11-26,Saudi Arabia
+3857297,81,Poland,Robert Lewandowski,Goal,0.47824246,"[107.2, 44.6]",2022-11-26,Saudi Arabia
+3857297,86,Saudi Arabia,Abdulrahman Al-Obood,Off T,0.041744728,"[118.0, 48.2]",2022-11-26,Poland
+3857297,89,Poland,Robert Lewandowski,Saved,0.4181081,"[109.9, 48.1]",2022-11-26,Saudi Arabia
+3857297,95,Saudi Arabia,Mohammed Kanoo,Off T,0.046656966,"[95.3, 32.9]",2022-11-26,Poland
+3857294,0,Netherlands,Memphis Depay,Off T,0.04113277,"[114.9, 52.7]",2022-11-29,Qatar
+3857294,2,Qatar,Hassan Khalid Al Heidos,Saved,0.015712837,"[89.6, 52.0]",2022-11-29,Netherlands
+3857294,3,Netherlands,Daley Blind,Saved,0.10723932,"[114.1, 29.0]",2022-11-29,Qatar
+3857294,3,Netherlands,Daley Blind,Off T,0.042171385,"[115.2, 28.6]",2022-11-29,Qatar
+3857294,6,Netherlands,Cody Mathès Gakpo,Blocked,0.023612352,"[93.2, 29.5]",2022-11-29,Qatar
+3857294,13,Netherlands,Frenkie de Jong,Blocked,0.032602046,"[96.9, 32.3]",2022-11-29,Qatar
+3857294,13,Netherlands,Memphis Depay,Off T,0.14338174,"[107.4, 31.3]",2022-11-29,Qatar
+3857294,18,Netherlands,Davy Klaassen,Off T,0.08364612,"[113.0, 44.5]",2022-11-29,Qatar
+3857294,24,Qatar,Abdelkarim Hassan Al Haj Fadlalla,Off T,0.067132466,"[109.2, 45.5]",2022-11-29,Netherlands
+3857294,25,Netherlands,Memphis Depay,Blocked,0.0753362,"[113.6, 30.5]",2022-11-29,Qatar
+3857294,25,Netherlands,Cody Mathès Gakpo,Goal,0.14035599,"[103.3, 39.8]",2022-11-29,Qatar
+3857294,28,Qatar,Ismaeel Mohammad Mohammad,Saved,0.03016361,"[93.9, 39.3]",2022-11-29,Netherlands
+3857294,47,Netherlands,Memphis Depay,Off T,0.029451067,"[93.6, 49.7]",2022-11-29,Qatar
+3857294,48,Netherlands,Memphis Depay,Saved,0.2959347,"[116.4, 34.2]",2022-11-29,Qatar
+3857294,48,Netherlands,Frenkie de Jong,Goal,0.6883914,"[117.6, 40.3]",2022-11-29,Qatar
+3857294,76,Qatar,Abdulaziz Hatem Mohammed Abdullah,Saved,0.024495702,"[94.7, 53.1]",2022-11-29,Netherlands
+3857294,87,Qatar,Pedro Miguel Correia,Off T,0.00621196,"[88.8, 53.2]",2022-11-29,Netherlands
+3857294,91,Netherlands,Steven Berghuis,Post,0.010698183,"[102.2, 59.1]",2022-11-29,Qatar
+3857266,5,France,Ousmane Dembélé,Blocked,0.04759094,"[97.8, 38.0]",2022-11-26,Denmark
+3857266,9,France,Adrien Rabiot,Blocked,0.10936305,"[115.0, 45.6]",2022-11-26,Denmark
+3857266,12,France,Raphaël Varane,Wayward,0.0425816,"[112.4, 46.9]",2022-11-26,Denmark
+3857266,14,France,Olivier Giroud,Wayward,0.11903284,"[111.9, 38.9]",2022-11-26,Denmark
+3857266,20,France,Adrien Rabiot,Saved,0.04225832,"[108.9, 44.3]",2022-11-26,Denmark
+3857266,29,France,Jules Koundé,Blocked,0.02881258,"[109.0, 56.2]",2022-11-26,Denmark
+3857266,32,France,Antoine Griezmann,Saved,0.010852635,"[118.2, 23.1]",2022-11-26,Denmark
+3857266,32,France,Aurélien Djani Tchouaméni,Blocked,0.054124165,"[99.7, 39.1]",2022-11-26,Denmark
+3857266,32,France,Ousmane Dembélé,Blocked,0.046849832,"[108.2, 48.0]",2022-11-26,Denmark
+3857266,33,France,Adrien Rabiot,Blocked,0.02230111,"[100.1, 24.5]",2022-11-26,Denmark
+3857266,35,Denmark,Andreas Evald Cornelius,Off T,0.048269883,"[107.4, 55.8]",2022-11-26,France
+3857266,36,France,Olivier Giroud,Off T,0.045027424,"[108.6, 45.2]",2022-11-26,Denmark
+3857266,39,France,Kylian Mbappé Lottin,Off T,0.18605462,"[106.0, 43.8]",2022-11-26,Denmark
+3857266,44,Denmark,Christian Dannemann Eriksen,Off T,0.006951803,"[83.0, 42.5]",2022-11-26,France
+3857266,47,France,Kylian Mbappé Lottin,Blocked,0.011081066,"[98.6, 18.5]",2022-11-26,Denmark
+3857266,55,France,Kylian Mbappé Lottin,Saved,0.03630777,"[104.1, 30.1]",2022-11-26,Denmark
+3857266,59,France,Antoine Griezmann,Off T,0.21733604,"[102.6, 38.8]",2022-11-26,Denmark
+3857266,60,France,Kylian Mbappé Lottin,Goal,0.08505598,"[110.8, 31.3]",2022-11-26,Denmark
+3857266,67,Denmark,Joachim Andersen,Wayward,0.082872435,"[112.2, 43.9]",2022-11-26,France
+3857266,67,Denmark,Andreas Christensen,Goal,0.25384808,"[113.0, 37.6]",2022-11-26,France
+3857266,72,Denmark,Jesper Lindstrøm,Saved,0.18929456,"[107.4, 33.0]",2022-11-26,France
+3857266,73,Denmark,Christian Dannemann Eriksen,Blocked,0.0264413,"[93.3, 45.1]",2022-11-26,France
+3857266,77,France,Aurélien Djani Tchouaméni,Blocked,0.22405402,"[113.7, 37.7]",2022-11-26,Denmark
+3857266,78,France,Jules Koundé,Off T,0.106879756,"[110.7, 40.7]",2022-11-26,Denmark
+3857266,79,France,Adrien Rabiot,Off T,0.080693014,"[112.7, 47.3]",2022-11-26,Denmark
+3857266,80,Denmark,Martin Braithwaite Christensen,Post,0.23786028,"[110.0, 45.1]",2022-11-26,France
+3857266,83,Denmark,Pierre-Emile Højbjerg,Off T,0.015153575,"[87.2, 48.7]",2022-11-26,France
+3857266,85,France,Kylian Mbappé Lottin,Goal,0.38353118,"[117.8, 36.5]",2022-11-26,Denmark
+3857266,88,Denmark,Joachim Andersen,Blocked,0.014218964,"[94.3, 53.4]",2022-11-26,France
+3857266,90,France,Kylian Mbappé Lottin,Saved,0.033781487,"[99.4, 25.5]",2022-11-26,Denmark
+3857266,96,Denmark,Joakim Mæhle,Off T,0.013632962,"[87.5, 42.4]",2022-11-26,France
+3857284,13,Germany,Joshua Kimmich,Blocked,0.022911863,"[93.0, 31.2]",2022-11-23,Japan
+3857284,15,Germany,Antonio Rüdiger,Off T,0.026021937,"[110.5, 50.6]",2022-11-23,Japan
+3857284,19,Germany,Joshua Kimmich,Saved,0.05193508,"[96.9, 39.6]",2022-11-23,Japan
+3857284,25,Germany,İlkay Gündoğan,Blocked,0.042519,"[99.7, 29.6]",2022-11-23,Japan
+3857284,27,Germany,İlkay Gündoğan,Saved,0.041637745,"[94.4, 42.8]",2022-11-23,Japan
+3857284,28,Germany,İlkay Gündoğan,Blocked,0.12241382,"[105.3, 36.8]",2022-11-23,Japan
+3857284,32,Germany,İlkay Gündoğan,Goal,0.7835,"[108.0, 40.0]",2022-11-23,Japan
+3857284,37,Germany,Serge Gnabry,Blocked,0.028658802,"[93.1, 48.2]",2022-11-23,Japan
+3857284,37,Germany,Jamal Musiala,Blocked,0.03933018,"[108.5, 28.3]",2022-11-23,Japan
+3857284,40,Germany,İlkay Gündoğan,Saved,0.031919174,"[93.3, 39.0]",2022-11-23,Japan
+3857284,41,Germany,Joshua Kimmich,Off T,0.05113006,"[97.0, 42.2]",2022-11-23,Japan
+3857284,44,Germany,Jamal Musiala,Off T,0.06614002,"[101.9, 45.1]",2022-11-23,Japan
+3857284,48,Germany,Joshua Kimmich,Saved,0.047906045,"[100.3, 40.5]",2022-11-23,Japan
+3857284,48,Germany,Serge Gnabry,Wayward,0.21508263,"[114.3, 29.9]",2022-11-23,Japan
+3857284,50,Japan,Daizen Maeda,Off T,0.07710243,"[111.0, 34.3]",2022-11-23,Germany
+3857284,46,Germany,Serge Gnabry,Post,0.013327111,"[108.3, 57.9]",2022-11-23,Japan
+3857284,49,Japan,Daichi Kamada,Blocked,0.06444196,"[103.3, 47.4]",2022-11-23,Germany
+3857284,50,Germany,Jamal Musiala,Off T,0.15860753,"[107.2, 41.0]",2022-11-23,Japan
+3857284,57,Japan,Takuma Asano,Off T,0.06737846,"[114.7, 49.4]",2022-11-23,Germany
+3857284,59,Germany,İlkay Gündoğan,Post,0.10696415,"[103.0, 40.0]",2022-11-23,Japan
+3857284,60,Japan,Takuma Asano,Off T,0.06586899,"[106.4, 25.8]",2022-11-23,Germany
+3857284,65,Japan,Takuma Asano,Blocked,0.029970925,"[106.9, 26.5]",2022-11-23,Germany
+3857284,66,Japan,Ko Itakura,Blocked,0.034016185,"[112.6, 51.3]",2022-11-23,Germany
+3857284,67,Japan,Takuma Asano,Blocked,0.0360808,"[112.5, 51.1]",2022-11-23,Germany
+3857284,69,Germany,Jonas Hofmann,Saved,0.32657883,"[111.1, 48.5]",2022-11-23,Japan
+3857284,69,Germany,Serge Gnabry,Saved,0.02483029,"[103.3, 57.9]",2022-11-23,Japan
+3857284,70,Germany,Serge Gnabry,Saved,0.11167552,"[112.2, 43.5]",2022-11-23,Japan
+3857284,70,Germany,Serge Gnabry,Saved,0.0550312,"[117.7, 49.5]",2022-11-23,Japan
+3857284,72,Japan,Junya Ito,Saved,0.06845111,"[109.2, 36.3]",2022-11-23,Germany
+3857284,72,Japan,Hiroki Sakai,Off T,0.28772855,"[113.4, 46.3]",2022-11-23,Germany
+3857284,74,Japan,Takumi Minamino,Saved,0.013784891,"[112.8, 24.4]",2022-11-23,Germany
+3857284,74,Japan,Ritsu Doan,Goal,0.4777511,"[112.1, 41.5]",2022-11-23,Germany
+3857284,79,Germany,Antonio Rüdiger,Off T,0.18550046,"[115.5, 39.4]",2022-11-23,Japan
+3857284,82,Japan,Takuma Asano,Goal,0.02668418,"[117.7, 50.2]",2022-11-23,Germany
+3857284,89,Germany,Niclas Füllkrug,Off T,0.031593546,"[106.9, 41.0]",2022-11-23,Japan
+3857284,93,Germany,Antonio Rüdiger,Off T,0.017847534,"[86.2, 37.2]",2022-11-23,Japan
+3857284,94,Germany,Leon Goretzka,Off T,0.088851534,"[100.3, 40.9]",2022-11-23,Japan
+3857284,97,Germany,Niklas Süle,Blocked,0.07610536,"[116.5, 31.6]",2022-11-23,Japan
+3857254,2,Tunisia,Youssef Msakni,Blocked,0.023819994,"[92.6, 52.0]",2022-11-22,Denmark
+3857254,4,Tunisia,Issam Jebali,Blocked,0.014059674,"[114.0, 54.8]",2022-11-22,Denmark
+3857254,10,Tunisia,Mohamed Dräger,Blocked,0.033114884,"[93.4, 44.5]",2022-11-22,Denmark
+3857254,11,Tunisia,Youssef Msakni,Off T,0.04366076,"[114.7, 29.6]",2022-11-22,Denmark
+3857254,22,Denmark,Kasper Dolberg,Blocked,0.124032564,"[115.3, 32.5]",2022-11-22,Tunisia
+3857254,22,Denmark,Joachim Andersen,Saved,0.02765422,"[99.7, 30.3]",2022-11-22,Tunisia
+3857254,32,Denmark,Pierre-Emile Højbjerg,Saved,0.008709067,"[95.4, 19.0]",2022-11-22,Tunisia
+3857254,38,Tunisia,Yassine Meriah,Blocked,0.046073906,"[111.4, 49.3]",2022-11-22,Denmark
+3857254,38,Tunisia,Aïssa Bilal Laïdouni,Off T,0.06712157,"[115.0, 52.2]",2022-11-22,Denmark
+3857254,42,Tunisia,Issam Jebali,Saved,0.4656446,"[112.0, 44.9]",2022-11-22,Denmark
+3857254,42,Tunisia,Ellyes Joris Skhiri,Off T,0.059586592,"[99.8, 40.9]",2022-11-22,Denmark
+3857254,45,Tunisia,Issam Jebali,Wayward,0.11338296,"[112.1, 47.5]",2022-11-22,Denmark
+3857254,45,Tunisia,Youssef Msakni,Off T,0.07208876,"[114.7, 48.7]",2022-11-22,Denmark
+3857254,50,Tunisia,Mohamed Dräger,Blocked,0.020917216,"[92.2, 49.3]",2022-11-22,Denmark
+3857254,52,Tunisia,Ellyes Joris Skhiri,Blocked,0.041405495,"[99.5, 39.6]",2022-11-22,Denmark
+3857254,52,Tunisia,Dylan Daniel Mahmoud Bronn,Blocked,0.059058707,"[103.9, 36.4]",2022-11-22,Denmark
+3857254,56,Denmark,Kasper Dolberg,Wayward,0.25651878,"[117.0, 35.0]",2022-11-22,Tunisia
+3857254,68,Denmark,Christian Dannemann Eriksen,Saved,0.08509644,"[99.2, 36.8]",2022-11-22,Tunisia
+3857254,69,Denmark,Andreas Christensen,Wayward,0.27134958,"[117.4, 37.0]",2022-11-22,Tunisia
+3857254,69,Denmark,Andreas Evald Cornelius,Post,0.5683119,"[118.2, 43.9]",2022-11-22,Tunisia
+3857254,75,Denmark,Mathias Jensen,Off T,0.02872357,"[102.5, 24.2]",2022-11-22,Tunisia
+3857254,91,Denmark,Andreas Evald Cornelius,Saved,0.14539434,"[114.4, 36.8]",2022-11-22,Tunisia
+3857254,91,Denmark,Joakim Mæhle,Blocked,0.028684001,"[95.0, 30.2]",2022-11-22,Tunisia
+3857254,96,Denmark,Andreas Evald Cornelius,Saved,0.022084296,"[108.8, 46.4]",2022-11-22,Tunisia
+3857265,6,Poland,Robert Lewandowski,Blocked,0.056964528,"[110.6, 37.2]",2022-11-22,Mexico
+3857265,11,Mexico,Héctor Alfredo Moreno Herrera,Off T,0.1766503,"[114.5, 42.4]",2022-11-22,Poland
+3857265,25,Mexico,Ernesto Alexis Vega Rojas,Off T,0.098180205,"[113.2, 34.6]",2022-11-22,Poland
+3857265,43,Mexico,Ernesto Alexis Vega Rojas,Blocked,0.025630916,"[108.5, 23.7]",2022-11-22,Poland
+3857265,44,Mexico,Jorge Eduardo Sánchez Ramos,Saved,0.0069717234,"[110.1, 60.7]",2022-11-22,Poland
+3857265,46,Mexico,Luis Gerardo Chávez Magallón,Blocked,0.008207667,"[92.1, 56.9]",2022-11-22,Poland
+3857265,51,Mexico,Hirving Rodrigo Lozano Bahena,Saved,0.02413981,"[93.9, 25.2]",2022-11-22,Poland
+3857265,57,Poland,Robert Lewandowski,Saved,0.7835,"[108.1, 40.0]",2022-11-22,Mexico
+3857265,57,Poland,Jakub Kamiński,Blocked,0.10166888,"[113.4, 48.8]",2022-11-22,Mexico
+3857265,59,Mexico,Ernesto Alexis Vega Rojas,Blocked,0.0609232,"[107.9, 29.9]",2022-11-22,Poland
+3857265,63,Mexico,Henry Josué Martín Mex,Saved,0.06434309,"[106.7, 35.1]",2022-11-22,Poland
+3857265,65,Mexico,Ernesto Alexis Vega Rojas,Off T,0.009746956,"[102.7, 60.6]",2022-11-22,Poland
+3857265,79,Mexico,Ernesto Alexis Vega Rojas,Off T,0.014301864,"[93.0, 24.5]",2022-11-22,Poland
+3857265,81,Poland,Jakub Piotr Kiwior,Wayward,0.12449861,"[113.3, 41.7]",2022-11-22,Mexico
+3857265,93,Poland,Jakub Kamiński,Saved,0.04959144,"[109.4, 24.8]",2022-11-22,Mexico
+3857265,95,Poland,Grzegorz Krychowiak,Off T,0.02170277,"[90.9, 48.7]",2022-11-22,Mexico
+3857265,95,Mexico,Carlos Uriel Antuna Romero,Saved,0.0400392,"[101.9, 56.4]",2022-11-22,Poland
+3857301,3,Senegal,Ismaïla Sarr,Off T,0.07323868,"[113.5, 52.4]",2022-11-25,Qatar
+3857301,8,Senegal,Nampalys Mendy,Off T,0.025409508,"[93.8, 39.3]",2022-11-25,Qatar
+3857301,14,Qatar,Akram Hassan Afif,Off T,0.019990891,"[92.5, 41.5]",2022-11-25,Senegal
+3857301,15,Senegal,Krépin Diatta,Saved,0.039485876,"[111.2, 26.7]",2022-11-25,Qatar
+3857301,16,Senegal,Famara Diedhiou,Off T,0.14633009,"[112.9, 38.6]",2022-11-25,Qatar
+3857301,23,Senegal,Idrissa Gana Gueye,Off T,0.029332913,"[95.4, 52.7]",2022-11-25,Qatar
+3857301,25,Qatar,Abdelkarim Hassan Al Haj Fadlalla,Blocked,0.009041326,"[93.6, 20.3]",2022-11-25,Senegal
+3857301,40,Senegal,Boulaye Dia,Goal,0.23054633,"[107.2, 33.3]",2022-11-25,Qatar
+3857301,47,Senegal,Famara Diedhiou,Goal,0.038498666,"[112.5, 48.1]",2022-11-25,Qatar
+3857301,54,Qatar,Abdelkarim Hassan Al Haj Fadlalla,Blocked,0.16305494,"[111.6, 39.3]",2022-11-25,Senegal
+3857301,56,Senegal,Ismaïla Sarr,Blocked,0.030363984,"[112.1, 27.2]",2022-11-25,Qatar
+3857301,58,Senegal,Famara Diedhiou,Blocked,0.05329144,"[108.8, 48.6]",2022-11-25,Qatar
+3857301,60,Qatar,Abdelkarim Hassan Al Haj Fadlalla,Off T,0.006098259,"[89.5, 22.9]",2022-11-25,Senegal
+3857301,62,Qatar,Almoez Ali Zainalabiddin Abdulla,Saved,0.21404111,"[102.6, 34.4]",2022-11-25,Senegal
+3857301,66,Qatar,Ismaeel Mohammad Mohammad,Saved,0.3277431,"[113.2, 40.5]",2022-11-25,Senegal
+3857301,68,Senegal,Nampalys Mendy,Off T,0.067961,"[107.3, 53.4]",2022-11-25,Qatar
+3857301,77,Qatar,Mohammed Muntari,Goal,0.072239615,"[110.1, 38.7]",2022-11-25,Senegal
+3857301,80,Senegal,Boulaye Dia,Wayward,0.052429575,"[107.1, 38.8]",2022-11-25,Qatar
+3857301,83,Senegal,Cheikh Ahmadou Bamba Mbacke Dieng,Goal,0.11607656,"[107.8, 45.3]",2022-11-25,Qatar
+3857301,88,Qatar,Abdelkarim Hassan Al Haj Fadlalla,Off T,0.023370314,"[95.4, 52.1]",2022-11-25,Senegal
+3857301,89,Qatar,Mohammed Muntari,Blocked,0.06740542,"[110.5, 39.5]",2022-11-25,Senegal
+3857301,93,Qatar,Almoez Ali Zainalabiddin Abdulla,Off T,0.057101198,"[97.1, 41.8]",2022-11-25,Senegal
+3857268,0,Belgium,Michy Batshuayi Tunga,Saved,0.017552001,"[91.7, 31.8]",2022-11-23,Canada
+3857268,1,Canada,Stephen Antunes Eustáquio,Blocked,0.0798905,"[109.8, 50.0]",2022-11-23,Belgium
+3857268,6,Canada,Jonathan David,Blocked,0.12589528,"[111.4, 42.8]",2022-11-23,Belgium
+3857268,7,Canada,Tajon Buchanan,Blocked,0.05664073,"[106.2, 35.6]",2022-11-23,Belgium
+3857268,10,Canada,Alphonso Davies,Saved,0.7835,"[108.1, 40.1]",2022-11-23,Belgium
+3857268,10,Canada,Jonathan David,Off T,0.20472932,"[110.4, 34.6]",2022-11-23,Belgium
+3857268,12,Canada,Richie Laryea,Off T,0.033730526,"[105.0, 56.4]",2022-11-23,Belgium
+3857268,12,Canada,Jonathan David,Blocked,0.08619453,"[107.7, 45.9]",2022-11-23,Belgium
+3857268,15,Canada,David Junior Hoilett,Off T,0.04071268,"[104.9, 53.9]",2022-11-23,Belgium
+3857268,22,Belgium,Michy Batshuayi Tunga,Blocked,0.04664896,"[112.3, 50.2]",2022-11-23,Canada
+3857268,26,Canada,Atiba Hutchinson,Off T,0.04634635,"[98.1, 44.7]",2022-11-23,Belgium
+3857268,29,Canada,Alistair Johnston,Saved,0.033541974,"[108.1, 56.3]",2022-11-23,Belgium
+3857268,30,Canada,Jonathan David,Blocked,0.08845105,"[104.4, 37.5]",2022-11-23,Belgium
+3857268,31,Canada,Jonathan David,Off T,0.088843234,"[111.1, 34.1]",2022-11-23,Belgium
+3857268,32,Belgium,Michy Batshuayi Tunga,Off T,0.08121458,"[111.8, 51.3]",2022-11-23,Canada
+3857268,43,Belgium,Michy Batshuayi Tunga,Goal,0.24992359,"[109.0, 36.1]",2022-11-23,Canada
+3857268,46,Canada,Tajon Buchanan,Off T,0.29588586,"[112.6, 42.5]",2022-11-23,Belgium
+3857268,48,Canada,Stephen Antunes Eustáquio,Blocked,0.048581414,"[100.5, 38.5]",2022-11-23,Belgium
+3857268,47,Canada,Jonathan David,Off T,0.120068476,"[111.7, 36.9]",2022-11-23,Belgium
+3857268,49,Canada,Stephen Antunes Eustáquio,Off T,0.03604073,"[97.8, 52.7]",2022-11-23,Belgium
+3857268,62,Canada,Tajon Buchanan,Off T,0.0587075,"[98.3, 34.5]",2022-11-23,Belgium
+3857268,66,Canada,Richie Laryea,Off T,0.022910038,"[101.7, 54.6]",2022-11-23,Belgium
+3857268,66,Belgium,Michy Batshuayi Tunga,Blocked,0.0897183,"[103.9, 43.0]",2022-11-23,Canada
+3857268,76,Canada,Jonathan David,Blocked,0.04574546,"[103.1, 38.1]",2022-11-23,Belgium
+3857268,79,Canada,Cyle Larin,Saved,0.07200206,"[108.2, 44.1]",2022-11-23,Belgium
+3857268,84,Belgium,Leander Dendoncker,Off T,0.08894938,"[112.5, 43.5]",2022-11-23,Canada
+3857268,85,Belgium,Kevin De Bruyne,Off T,0.061057936,"[96.6, 39.5]",2022-11-23,Canada
+3857268,85,Canada,Cyle Larin,Off T,0.111036494,"[111.7, 37.5]",2022-11-23,Belgium
+3857268,90,Belgium,Thomas Meunier,Blocked,0.025805552,"[98.0, 55.5]",2022-11-23,Canada
+3857268,90,Belgium,Kevin De Bruyne,Saved,0.009170555,"[114.3, 59.2]",2022-11-23,Canada
+3857268,91,Canada,Cyle Larin,Blocked,0.06675813,"[111.1, 36.1]",2022-11-23,Belgium
+3857269,5,Switzerland,Silvan Widmer,Off T,0.05117428,"[114.9, 30.0]",2022-11-28,Brazil
+3857269,26,Brazil,Vinícius José Paixão de Oliveira Júnior,Saved,0.21638125,"[112.1, 34.0]",2022-11-28,Switzerland
+3857269,27,Brazil,Carlos Henrique Casimiro,Wayward,0.023129713,"[94.3, 39.7]",2022-11-28,Switzerland
+3857269,30,Brazil,Raphael Dias Belloli,Saved,0.02201561,"[90.1, 46.2]",2022-11-28,Switzerland
+3857269,31,Brazil,Richarlison de Andrade,Blocked,0.022230485,"[104.2, 41.2]",2022-11-28,Switzerland
+3857269,36,Brazil,Éder Gabriel Militão,Blocked,0.02857021,"[93.2, 45.0]",2022-11-28,Switzerland
+3857269,43,Brazil,Thiago Emiliano da Silva,Blocked,0.14148508,"[115.0, 43.5]",2022-11-28,Switzerland
+3857269,52,Switzerland,Djibril Sow,Blocked,0.087867536,"[112.6, 48.8]",2022-11-28,Brazil
+3857269,53,Switzerland,Ruben Vargas,Blocked,0.029704679,"[104.3, 26.2]",2022-11-28,Brazil
+3857269,54,Switzerland,Manuel Obafemi Akanji,Wayward,0.028123023,"[103.5, 43.9]",2022-11-28,Brazil
+3857269,59,Switzerland,Djibril Sow,Blocked,0.0625126,"[99.4, 37.0]",2022-11-28,Brazil
+3857269,59,Switzerland,Edimilson Fernandes,Blocked,0.029247057,"[97.4, 42.8]",2022-11-28,Brazil
+3857269,69,Brazil,Marcos Aoás Corrêa,Wayward,0.07814184,"[110.6, 37.4]",2022-11-28,Switzerland
+3857269,71,Brazil,Richarlison de Andrade,Blocked,0.038312852,"[107.0, 26.5]",2022-11-28,Switzerland
+3857269,80,Brazil,Bruno Guimarães Rodriguez Moura,Saved,0.021188514,"[102.2, 47.4]",2022-11-28,Switzerland
+3857269,82,Brazil,Carlos Henrique Casimiro,Goal,0.068805926,"[106.3, 29.4]",2022-11-28,Switzerland
+3857269,86,Brazil,Rodrygo Silva de Goes,Saved,0.04824855,"[109.7, 25.4]",2022-11-28,Switzerland
+3857269,86,Brazil,Antony Matheus dos Santos,Off T,0.020722246,"[102.1, 56.6]",2022-11-28,Switzerland
+3857269,93,Brazil,Rodrygo Silva de Goes,Blocked,0.19349767,"[105.8, 41.8]",2022-11-28,Switzerland
+3869321,4,Argentina,Rodrigo Javier De Paul,Blocked,0.02377054,"[101.6, 53.3]",2022-12-09,Netherlands
+3869321,21,Argentina,Lionel Andrés Messi Cuccittini,Off T,0.037832856,"[96.6, 50.3]",2022-12-09,Netherlands
+3869321,23,Netherlands,Steven Bergwijn,Off T,0.089517,"[101.6, 32.9]",2022-12-09,Argentina
+3869321,32,Argentina,Rodrigo Javier De Paul,Saved,0.049762752,"[97.6, 42.3]",2022-12-09,Netherlands
+3869321,34,Argentina,Nahuel Molina Lucero,Goal,0.43442267,"[109.1, 42.4]",2022-12-09,Netherlands
+3869321,39,Argentina,Lionel Andrés Messi Cuccittini,Saved,0.03387043,"[104.0, 32.2]",2022-12-09,Netherlands
+3869321,62,Argentina,Lionel Andrés Messi Cuccittini,Off T,0.07608311,"[96.0, 33.3]",2022-12-09,Netherlands
+3869321,72,Argentina,Lionel Andrés Messi Cuccittini,Goal,0.7835,"[108.0, 40.0]",2022-12-09,Netherlands
+3869321,82,Netherlands,Wout Weghorst,Goal,0.047416847,"[108.7, 46.4]",2022-12-09,Argentina
+3869321,84,Netherlands,Steven Berghuis,Blocked,0.032538008,"[104.6, 53.3]",2022-12-09,Argentina
+3869321,89,Netherlands,Denzel Dumfries,Off T,0.047394842,"[113.5, 52.9]",2022-12-09,Argentina
+3869321,92,Netherlands,Steven Berghuis,Blocked,0.08017064,"[97.2, 37.9]",2022-12-09,Argentina
+3869321,100,Netherlands,Wout Weghorst,Goal,0.21959315,"[111.8, 39.9]",2022-12-09,Argentina
+3869321,109,Argentina,Lionel Andrés Messi Cuccittini,Off T,0.035418287,"[101.1, 53.3]",2022-12-09,Netherlands
+3869321,112,Netherlands,Luuk de Jong,Blocked,0.05290734,"[110.9, 28.4]",2022-12-09,Argentina
+3869321,113,Argentina,Lautaro Javier Martínez,Blocked,0.2245604,"[109.5, 45.9]",2022-12-09,Netherlands
+3869321,114,Argentina,Enzo Fernandez,Blocked,0.032085553,"[94.2, 43.8]",2022-12-09,Netherlands
+3869321,115,Argentina,Germán Alejandro Pezzella,Off T,0.04452438,"[112.5, 31.3]",2022-12-09,Netherlands
+3869321,118,Argentina,Lautaro Javier Martínez,Saved,0.08241133,"[97.6, 38.6]",2022-12-09,Netherlands
+3869321,119,Argentina,Lionel Andrés Messi Cuccittini,Blocked,0.04201436,"[96.6, 41.6]",2022-12-09,Netherlands
+3869321,120,Argentina,Enzo Fernandez,Post,0.038940463,"[97.2, 49.3]",2022-12-09,Netherlands
+3857292,1,Germany,Jamal Musiala,Saved,0.06331741,"[99.6, 29.7]",2022-12-01,Costa Rica
+3857292,6,Germany,Leon Goretzka,Wayward,0.15352516,"[109.5, 48.0]",2022-12-01,Costa Rica
+3857292,8,Germany,Thomas Müller,Off T,0.14610097,"[108.2, 42.4]",2022-12-01,Costa Rica
+3857292,9,Germany,Serge Gnabry,Goal,0.0895267,"[111.9, 33.1]",2022-12-01,Costa Rica
+3857292,13,Germany,Leon Goretzka,Saved,0.18187125,"[113.1, 35.8]",2022-12-01,Costa Rica
+3857292,20,Germany,Thomas Müller,Wayward,0.069567084,"[111.6, 41.1]",2022-12-01,Costa Rica
+3857292,29,Germany,Serge Gnabry,Blocked,0.044056788,"[105.2, 30.9]",2022-12-01,Costa Rica
+3857292,34,Germany,Joshua Kimmich,Saved,0.011488004,"[92.4, 55.8]",2022-12-01,Costa Rica
+3857292,35,Germany,Jamal Musiala,Off T,0.16202919,"[105.7, 33.6]",2022-12-01,Costa Rica
+3857292,38,Germany,Serge Gnabry,Off T,0.06251996,"[106.4, 28.9]",2022-12-01,Costa Rica
+3857292,41,Costa Rica,Keysher Fuller Spence,Saved,0.14103858,"[107.3, 51.1]",2022-12-01,Germany
+3857292,44,Germany,Leroy Sané,Off T,0.080942705,"[98.5, 47.8]",2022-12-01,Costa Rica
+3857292,45,Germany,Leroy Sané,Blocked,0.078109905,"[99.5, 44.5]",2022-12-01,Costa Rica
+3857292,51,Costa Rica,Keysher Fuller Spence,Blocked,0.050267275,"[108.9, 54.5]",2022-12-01,Germany
+3857292,51,Costa Rica,Yeltsin Ignacio Tejeda Valverde,Saved,0.042256437,"[97.2, 48.9]",2022-12-01,Germany
+3857292,54,Germany,Serge Gnabry,Blocked,0.029866349,"[100.7, 26.9]",2022-12-01,Costa Rica
+3857292,54,Germany,Leroy Sané,Off T,0.02438984,"[91.0, 39.6]",2022-12-01,Costa Rica
+3857292,57,Costa Rica,Kendall Jamaal Waston Manley,Saved,0.099276,"[108.9, 45.4]",2022-12-01,Germany
+3857292,57,Costa Rica,Yeltsin Ignacio Tejeda Valverde,Goal,0.4798206,"[114.3, 38.1]",2022-12-01,Germany
+3857292,60,Germany,Jamal Musiala,Post,0.082946144,"[111.2, 28.5]",2022-12-01,Costa Rica
+3857292,60,Germany,Jamal Musiala,Off T,0.1066145,"[117.3, 31.5]",2022-12-01,Costa Rica
+3857292,61,Germany,Thomas Müller,Blocked,0.05438086,"[106.3, 47.2]",2022-12-01,Costa Rica
+3857292,61,Germany,Antonio Rüdiger,Post,0.41498688,"[114.5, 44.2]",2022-12-01,Costa Rica
+3857292,66,Germany,Jamal Musiala,Post,0.037713535,"[100.6, 27.6]",2022-12-01,Costa Rica
+3857292,66,Germany,Kai Havertz,Off T,0.110909514,"[107.3, 35.1]",2022-12-01,Costa Rica
+3857292,69,Costa Rica,Juan Pablo Vargas Campos,Saved,0.18427365,"[116.1, 43.1]",2022-12-01,Germany
+3857292,72,Germany,Kai Havertz,Goal,0.4749194,"[109.3, 42.6]",2022-12-01,Costa Rica
+3857292,73,Germany,Kai Havertz,Off T,0.14038351,"[102.8, 36.0]",2022-12-01,Costa Rica
+3857292,75,Germany,Niclas Füllkrug,Saved,0.36338806,"[115.2, 44.6]",2022-12-01,Costa Rica
+3857292,79,Costa Rica,Jewison Bennette,Off T,0.037811525,"[94.4, 46.4]",2022-12-01,Germany
+3857292,83,Germany,Jamal Musiala,Off T,0.060394496,"[104.6, 30.8]",2022-12-01,Costa Rica
+3857292,84,Germany,Kai Havertz,Goal,0.31018513,"[113.1, 37.6]",2022-12-01,Costa Rica
+3857292,85,Germany,Kai Havertz,Saved,0.11890341,"[110.4, 27.0]",2022-12-01,Costa Rica
+3857292,85,Germany,Mario Götze,Saved,0.066507556,"[107.0, 43.6]",2022-12-01,Costa Rica
+3857292,88,Germany,Niclas Füllkrug,Goal,0.510154,"[114.8, 42.5]",2022-12-01,Costa Rica
+3857292,94,Germany,Niclas Füllkrug,Blocked,0.046867393,"[101.1, 39.1]",2022-12-01,Costa Rica
+3857292,95,Germany,Niclas Füllkrug,Off T,0.13407986,"[117.9, 32.7]",2022-12-01,Costa Rica
+3857292,99,Germany,Jamal Musiala,Saved,0.085460834,"[107.5, 40.3]",2022-12-01,Costa Rica
+3857295,2,Japan,Ritsu Doan,Wayward,0.015573137,"[91.7, 53.8]",2022-11-27,Costa Rica
+3857295,3,Costa Rica,Gerson Torres Barrantes,Wayward,0.01353695,"[90.1, 47.7]",2022-11-27,Japan
+3857295,34,Costa Rica,Francisco Javier Calvo Quesada,Blocked,0.014244432,"[91.0, 26.8]",2022-11-27,Japan
+3857295,34,Costa Rica,Joel Nathaniel Campbell Samuels,Off T,0.051288527,"[101.0, 29.1]",2022-11-27,Japan
+3857295,37,Japan,Wataru Endo,Blocked,0.03132781,"[100.1, 51.7]",2022-11-27,Costa Rica
+3857295,45,Japan,Hidemasa Morita,Saved,0.09737273,"[101.4, 30.9]",2022-11-27,Costa Rica
+3857295,45,Japan,Takuma Asano,Blocked,0.051375452,"[104.1, 50.2]",2022-11-27,Costa Rica
+3857295,47,Japan,Wataru Endo,Blocked,0.042255066,"[95.2, 41.1]",2022-11-27,Costa Rica
+3857295,47,Japan,Takuma Asano,Saved,0.08747226,"[107.6, 37.5]",2022-11-27,Costa Rica
+3857295,49,Japan,Ko Itakura,Blocked,0.07774679,"[105.0, 40.0]",2022-11-27,Costa Rica
+3857295,49,Japan,Wataru Endo,Blocked,0.04122181,"[103.1, 34.1]",2022-11-27,Costa Rica
+3857295,56,Japan,Yuki Soma,Wayward,0.022210024,"[105.4, 22.1]",2022-11-27,Costa Rica
+3857295,62,Japan,Yuki Soma,Off T,0.08557594,"[98.1, 35.7]",2022-11-27,Costa Rica
+3857295,71,Japan,Daichi Kamada,Blocked,0.10029054,"[101.2, 43.2]",2022-11-27,Costa Rica
+3857295,71,Japan,Yuki Soma,Blocked,0.027111016,"[95.7, 44.3]",2022-11-27,Costa Rica
+3857295,80,Costa Rica,Keysher Fuller Spence,Goal,0.120298475,"[102.6, 47.5]",2022-11-27,Japan
+3857295,87,Japan,Daichi Kamada,Saved,0.09400092,"[108.0, 37.6]",2022-11-27,Costa Rica
+3869685,4,Argentina,Alexis Mac Allister,Saved,0.024542088,"[92.4, 30.0]",2022-12-18,France
+3869685,7,Argentina,Rodrigo Javier De Paul,Blocked,0.062813334,"[99.2, 47.9]",2022-12-18,France
+3869685,16,Argentina,Ángel Fabián Di María Hernández,Off T,0.106800534,"[103.1, 34.6]",2022-12-18,France
+3869685,22,Argentina,Lionel Andrés Messi Cuccittini,Goal,0.7835,"[108.0, 40.0]",2022-12-18,France
+3869685,31,Argentina,Alexis Mac Allister,Wayward,0.010577817,"[94.3, 23.5]",2022-12-18,France
+3869685,35,Argentina,Ángel Fabián Di María Hernández,Goal,0.30340916,"[111.8, 32.1]",2022-12-18,France
+3869685,48,Argentina,Rodrigo Javier De Paul,Saved,0.040216275,"[103.3, 52.3]",2022-12-18,France
+3869685,58,Argentina,Julián Álvarez,Saved,0.05953379,"[110.5, 24.9]",2022-12-18,France
+3869685,59,Argentina,Lionel Andrés Messi Cuccittini,Off T,0.11555985,"[109.7, 46.0]",2022-12-18,France
+3869685,67,France,Randal Kolo Muani,Off T,0.09618377,"[113.4, 34.6]",2022-12-18,Argentina
+3869685,70,France,Kylian Mbappé Lottin,Off T,0.050644457,"[102.5, 27.9]",2022-12-18,Argentina
+3869685,71,Argentina,Enzo Fernandez,Saved,0.041589838,"[98.9, 32.2]",2022-12-18,France
+3869685,79,France,Kylian Mbappé Lottin,Goal,0.7835,"[108.0, 40.0]",2022-12-18,Argentina
+3869685,80,France,Kylian Mbappé Lottin,Goal,0.1017027,"[104.8, 30.1]",2022-12-18,Argentina
+3869685,83,Argentina,Enzo Fernandez,Blocked,0.030159522,"[92.2, 35.9]",2022-12-18,France
+3869685,92,France,Kylian Mbappé Lottin,Blocked,0.0324491,"[95.9, 32.2]",2022-12-18,Argentina
+3869685,93,France,Adrien Rabiot,Saved,0.09333491,"[108.9, 28.5]",2022-12-18,Argentina
+3869685,96,Argentina,Lionel Andrés Messi Cuccittini,Saved,0.0430315,"[96.2, 40.9]",2022-12-18,France
+3869685,92,Argentina,Alexis Mac Allister,Off T,0.019259434,"[98.2, 23.8]",2022-12-18,France
+3869685,99,France,Youssouf Fofana,Blocked,0.023031652,"[89.8, 39.9]",2022-12-18,Argentina
+3869685,104,Argentina,Lautaro Javier Martínez,Blocked,0.23260574,"[108.8, 45.3]",2022-12-18,France
+3869685,104,Argentina,Gonzalo Ariel Montiel,Blocked,0.020604363,"[96.3, 49.4]",2022-12-18,France
+3869685,105,Argentina,Lautaro Javier Martínez,Off T,0.14029205,"[105.1, 33.5]",2022-12-18,France
+3869685,106,Argentina,Lionel Andrés Messi Cuccittini,Saved,0.024784861,"[103.6, 55.8]",2022-12-18,France
+3869685,107,Argentina,Lautaro Javier Martínez,Saved,0.10407211,"[114.4, 52.0]",2022-12-18,France
+3869685,107,Argentina,Lionel Andrés Messi Cuccittini,Goal,0.48840353,"[116.6, 43.0]",2022-12-18,France
+3869685,115,France,Kylian Mbappé Lottin,Blocked,0.03075741,"[101.4, 26.6]",2022-12-18,Argentina
+3869685,117,France,Kylian Mbappé Lottin,Goal,0.7835,"[108.0, 40.0]",2022-12-18,Argentina
+3869685,122,France,Randal Kolo Muani,Saved,0.27751395,"[103.7, 45.1]",2022-12-18,Argentina
+3869685,122,Argentina,Lautaro Javier Martínez,Off T,0.10655013,"[110.8, 41.6]",2022-12-18,France
+3869684,6,Croatia,Joško Gvardiol,Goal,0.1243582,"[108.8, 38.0]",2022-12-17,Morocco
+3869684,8,Morocco,Achraf Dari,Goal,0.4178385,"[115.6, 39.0]",2022-12-17,Croatia
+3869684,9,Croatia,Mislav Oršić,Off T,0.02730659,"[99.5, 23.8]",2022-12-17,Morocco
+3869684,13,Croatia,Josip Stanišić,Off T,0.040524755,"[94.4, 41.3]",2022-12-17,Morocco
+3869684,17,Croatia,Mislav Oršić,Blocked,0.11308218,"[104.9, 38.8]",2022-12-17,Morocco
+3869684,17,Croatia,Andrej Kramarić,Saved,0.13429043,"[111.3, 34.8]",2022-12-17,Morocco
+3869684,23,Croatia,Luka Modrić,Saved,0.07012748,"[101.2, 49.5]",2022-12-17,Morocco
+3869684,32,Morocco,Sofiane Boufal,Off T,0.08611878,"[112.4, 29.5]",2022-12-17,Croatia
+3869684,36,Morocco,Youssef En-Nesyri,Off T,0.04761149,"[117.8, 48.9]",2022-12-17,Croatia
+3869684,39,Morocco,Hakim Ziyech,Off T,0.014617449,"[90.6, 53.5]",2022-12-17,Croatia
+3869684,41,Croatia,Mislav Oršić,Goal,0.013095795,"[106.5, 21.3]",2022-12-17,Morocco
+3869684,46,Croatia,Marko Livaja,Blocked,0.02019975,"[90.5, 39.5]",2022-12-17,Morocco
+3869684,46,Croatia,Mislav Oršić,Blocked,0.028195048,"[100.8, 24.2]",2022-12-17,Morocco
+3869684,54,Croatia,Mislav Oršić,Off T,0.0065055056,"[87.5, 26.6]",2022-12-17,Morocco
+3869684,64,Morocco,Youssef En-Nesyri,Blocked,0.072652236,"[110.6, 40.5]",2022-12-17,Croatia
+3869684,70,Croatia,Nikola Vlašić,Off T,0.03597725,"[90.9, 36.9]",2022-12-17,Morocco
+3869684,74,Morocco,Youssef En-Nesyri,Saved,0.16040824,"[115.5, 48.3]",2022-12-17,Croatia
+3869684,86,Croatia,Mateo Kovačić,Off T,0.23560598,"[110.3, 29.2]",2022-12-17,Morocco
+3869684,89,Morocco,Youssef En-Nesyri,Blocked,0.057190012,"[110.9, 36.5]",2022-12-17,Croatia
+3869684,90,Morocco,Hakim Ziyech,Off T,0.021768013,"[89.6, 46.9]",2022-12-17,Croatia
+3869684,95,Morocco,Youssef En-Nesyri,Off T,0.1132524,"[113.6, 43.4]",2022-12-17,Croatia
+3857256,0,Switzerland,Granit Xhaka,Blocked,0.036565553,"[96.0, 38.8]",2022-12-02,Serbia
+3857256,0,Switzerland,Breel-Donald Embolo,Saved,0.35328916,"[113.1, 40.7]",2022-12-02,Serbia
+3857256,0,Switzerland,Granit Xhaka,Saved,0.06952749,"[103.8, 41.9]",2022-12-02,Serbia
+3857256,4,Serbia,Nikola Milenković,Off T,0.08160872,"[112.2, 36.8]",2022-12-02,Switzerland
+3857256,10,Serbia,Andrija Živković,Post,0.030001678,"[97.8, 51.5]",2022-12-02,Switzerland
+3857256,10,Serbia,Dušan Vlahović,Saved,0.5168786,"[115.4, 38.6]",2022-12-02,Switzerland
+3857256,13,Switzerland,Remo Freuler,Blocked,0.09611784,"[107.8, 35.9]",2022-12-02,Serbia
+3857256,19,Switzerland,Xherdan Shaqiri,Goal,0.06969889,"[107.5, 50.6]",2022-12-02,Serbia
+3857256,21,Switzerland,Granit Xhaka,Saved,0.04476528,"[97.3, 33.7]",2022-12-02,Serbia
+3857256,22,Serbia,Dušan Vlahović,Saved,0.08628477,"[109.6, 35.4]",2022-12-02,Switzerland
+3857256,25,Serbia,Aleksandar Mitrović,Goal,0.06371751,"[108.3, 38.6]",2022-12-02,Switzerland
+3857256,29,Switzerland,Xherdan Shaqiri,Off T,0.3934682,"[107.7, 49.2]",2022-12-02,Serbia
+3857256,34,Serbia,Dušan Vlahović,Goal,0.15928414,"[106.2, 31.8]",2022-12-02,Switzerland
+3857256,37,Switzerland,Ruben Vargas,Blocked,0.0683221,"[101.0, 47.3]",2022-12-02,Serbia
+3857256,43,Switzerland,Breel-Donald Embolo,Goal,0.72697556,"[114.4, 36.9]",2022-12-02,Serbia
+3857256,47,Serbia,Aleksandar Mitrović,Wayward,0.056521177,"[101.7, 33.7]",2022-12-02,Switzerland
+3857256,47,Switzerland,Remo Freuler,Goal,0.15381548,"[107.2, 41.2]",2022-12-02,Serbia
+3857256,56,Switzerland,Fabian Lukas Schär,Blocked,0.07925899,"[110.7, 30.5]",2022-12-02,Serbia
+3857256,56,Switzerland,Breel-Donald Embolo,Off T,0.6647709,"[116.1, 39.3]",2022-12-02,Serbia
+3857256,60,Serbia,Dušan Tadić,Off T,0.061684445,"[107.4, 31.7]",2022-12-02,Switzerland
+3857256,70,Serbia,Aleksandar Mitrović,Blocked,0.03203667,"[106.2, 25.8]",2022-12-02,Switzerland
+3857256,72,Serbia,Luka Jović,Blocked,0.02594082,"[102.2, 43.2]",2022-12-02,Switzerland
+3857256,81,Switzerland,Manuel Obafemi Akanji,Off T,0.030122569,"[99.4, 52.7]",2022-12-02,Serbia
+3857256,88,Switzerland,Christian Fassnacht,Saved,0.31681746,"[105.3, 28.9]",2022-12-02,Serbia
+3857256,91,Serbia,Luka Jović,Off T,0.03223471,"[105.0, 39.8]",2022-12-02,Switzerland
+3857256,99,Serbia,Nemanja Radonjić,Off T,0.042810295,"[105.7, 51.3]",2022-12-02,Switzerland
+3869151,16,Argentina,Alejandro Darío Gómez,Off T,0.011147299,"[98.2, 20.1]",2022-12-03,Australia
+3869151,28,Australia,Harry Souttar,Blocked,0.06809473,"[111.9, 44.0]",2022-12-03,Argentina
+3869151,34,Argentina,Lionel Andrés Messi Cuccittini,Goal,0.06663833,"[104.2, 48.9]",2022-12-03,Australia
+3869151,49,Argentina,Lionel Andrés Messi Cuccittini,Saved,0.04517154,"[99.8, 38.5]",2022-12-03,Australia
+3869151,56,Argentina,Julián Álvarez,Goal,0.28060678,"[110.4, 50.3]",2022-12-03,Australia
+3869151,65,Argentina,Lionel Andrés Messi Cuccittini,Off T,0.032841697,"[95.4, 33.6]",2022-12-03,Australia
+3869151,74,Argentina,Nicolás Alejandro Tagliafico,Off T,0.05181273,"[103.2, 24.9]",2022-12-03,Australia
+3869151,76,Australia,Craig Goodwin,Blocked,0.013616442,"[98.2, 22.6]",2022-12-03,Argentina
+3869151,80,Australia,Aziz Eraltay Behich,Blocked,0.07721693,"[110.6, 33.2]",2022-12-03,Argentina
+3869151,80,Australia,Ajdin Hrustic,Off T,0.033247408,"[100.0, 52.7]",2022-12-03,Argentina
+3869151,87,Argentina,Lautaro Javier Martínez,Off T,0.051439364,"[108.3, 52.3]",2022-12-03,Australia
+3869151,88,Argentina,Lautaro Javier Martínez,Off T,0.24890411,"[107.6, 31.9]",2022-12-03,Australia
+3869151,92,Argentina,Lautaro Javier Martínez,Saved,0.37209997,"[109.1, 31.8]",2022-12-03,Australia
+3869151,92,Argentina,Lionel Andrés Messi Cuccittini,Off T,0.055600196,"[104.6, 52.2]",2022-12-03,Australia
+3869151,93,Argentina,Exequiel Alejandro Palacios,Blocked,0.046685893,"[103.6, 50.1]",2022-12-03,Australia
+3869151,93,Argentina,Lionel Andrés Messi Cuccittini,Blocked,0.032042325,"[102.2, 40.0]",2022-12-03,Australia
+3869151,93,Argentina,Lautaro Javier Martínez,Saved,0.076142184,"[108.3, 30.8]",2022-12-03,Australia
+3869151,94,Argentina,Lionel Andrés Messi Cuccittini,Wayward,0.110446885,"[106.4, 37.0]",2022-12-03,Australia
+3869151,96,Australia,Garang Kuol,Saved,0.23394231,"[113.1, 49.4]",2022-12-03,Argentina
+3857257,2,Australia,Riley McGree,Blocked,0.038979717,"[94.6, 46.6]",2022-11-30,Denmark
+3857257,10,Denmark,Jesper Lindstrøm,Blocked,0.09599891,"[110.1, 43.9]",2022-11-30,Australia
+3857257,10,Denmark,Mathias Jensen,Saved,0.019605601,"[112.7, 56.3]",2022-11-30,Australia
+3857257,13,Denmark,Andreas Skov Olsen,Off T,0.10059545,"[104.7, 50.7]",2022-11-30,Australia
+3857257,21,Australia,Riley McGree,Saved,0.010740947,"[101.3, 59.0]",2022-11-30,Denmark
+3857257,24,Denmark,Andreas Skov Olsen,Saved,0.09373255,"[109.6, 50.5]",2022-11-30,Australia
+3857257,28,Denmark,Christian Dannemann Eriksen,Off T,0.035615563,"[102.9, 25.6]",2022-11-30,Australia
+3857257,31,Australia,Mitchell Thomas Duke,Saved,0.037495814,"[102.5, 36.7]",2022-11-30,Denmark
+3857257,40,Australia,Mitchell Thomas Duke,Saved,0.010397313,"[98.3, 20.9]",2022-11-30,Denmark
+3857257,46,Australia,Aziz Eraltay Behich,Blocked,0.049681988,"[100.2, 34.1]",2022-11-30,Denmark
+3857257,47,Australia,Jackson Irvine,Off T,0.17342122,"[109.6, 30.8]",2022-11-30,Denmark
+3857257,51,Denmark,Andreas Skov Olsen,Blocked,0.046983063,"[107.2, 52.9]",2022-11-30,Australia
+3857257,59,Australia,Mathew Leckie,Goal,0.11353828,"[105.7, 31.5]",2022-11-30,Denmark
+3857257,68,Denmark,Andreas Skov Olsen,Blocked,0.070518844,"[103.1, 49.3]",2022-11-30,Australia
+3857257,68,Denmark,Joachim Andersen,Off T,0.020115681,"[113.9, 52.3]",2022-11-30,Australia
+3857257,76,Denmark,Alexander Hartmann Bah,Blocked,0.019515881,"[99.4, 54.5]",2022-11-30,Australia
+3857257,76,Denmark,Kasper Dolberg,Saved,0.049264465,"[105.2, 39.6]",2022-11-30,Australia
+3857257,81,Denmark,Jesper Lindstrøm,Blocked,0.048889678,"[97.5, 38.2]",2022-11-30,Australia
+3857257,84,Australia,Keanu Baccus,Blocked,0.035468098,"[97.7, 47.5]",2022-11-30,Denmark
+3857257,87,Denmark,Alexander Hartmann Bah,Off T,0.03670106,"[108.6, 57.0]",2022-11-30,Australia
+3857257,94,Denmark,Kasper Dolberg,Saved,0.08217044,"[117.6, 33.5]",2022-11-30,Australia
+3857257,94,Denmark,Andreas Evald Cornelius,Off T,0.017447446,"[116.6, 51.6]",2022-11-30,Australia
+3857258,12,Brazil,Neymar da Silva Santos Junior,Saved,0.00018,"[119.2, 0.7]",2022-11-24,Serbia
+3857258,20,Brazil,Neymar da Silva Santos Junior,Blocked,0.020173745,"[91.6, 29.2]",2022-11-24,Serbia
+3857258,20,Brazil,Carlos Henrique Casimiro,Saved,0.0075366697,"[84.3, 34.2]",2022-11-24,Serbia
+3857258,34,Brazil,Raphael Dias Belloli,Saved,0.119197816,"[105.3, 49.2]",2022-11-24,Serbia
+3857258,36,Serbia,Filip Mladenović,Off T,0.026318645,"[113.6, 28.9]",2022-11-24,Brazil
+3857258,40,Brazil,Vinícius José Paixão de Oliveira Júnior,Off T,0.09814694,"[113.2, 27.0]",2022-11-24,Serbia
+3857258,45,Brazil,Raphael Dias Belloli,Saved,0.4224228,"[105.9, 47.3]",2022-11-24,Serbia
+3857258,49,Brazil,Neymar da Silva Santos Junior,Blocked,0.06281959,"[99.1, 27.0]",2022-11-24,Serbia
+3857258,50,Brazil,Thiago Emiliano da Silva,Blocked,0.06673048,"[113.1, 34.1]",2022-11-24,Serbia
+3857258,50,Brazil,Richarlison de Andrade,Blocked,0.0399856,"[115.8, 29.3]",2022-11-24,Serbia
+3857258,53,Brazil,Danilo Luiz da Silva,Wayward,0.016877638,"[95.9, 54.2]",2022-11-24,Serbia
+3857258,54,Brazil,Neymar da Silva Santos Junior,Off T,0.11246919,"[107.5, 38.9]",2022-11-24,Serbia
+3857258,59,Brazil,Alex Sandro Lobo Silva,Post,0.021819543,"[88.0, 32.0]",2022-11-24,Serbia
+3857258,59,Brazil,Vinícius José Paixão de Oliveira Júnior,Off T,0.009459062,"[105.0, 20.1]",2022-11-24,Serbia
+3857258,61,Brazil,Vinícius José Paixão de Oliveira Júnior,Saved,0.07986015,"[110.0, 26.9]",2022-11-24,Serbia
+3857258,61,Brazil,Richarlison de Andrade,Goal,0.568145,"[114.5, 41.8]",2022-11-24,Serbia
+3857258,66,Brazil,Vinícius José Paixão de Oliveira Júnior,Off T,0.14253756,"[109.1, 28.2]",2022-11-24,Serbia
+3857258,68,Serbia,Strahinja Pavlović,Off T,0.098937765,"[111.8, 38.5]",2022-11-24,Brazil
+3857258,69,Serbia,Darko Lazović,Off T,0.018288644,"[95.6, 50.9]",2022-11-24,Brazil
+3857258,72,Brazil,Richarlison de Andrade,Goal,0.07569885,"[107.1, 39.6]",2022-11-24,Serbia
+3857258,76,Brazil,Carlos Henrique Casimiro,Blocked,0.010592449,"[86.3, 31.2]",2022-11-24,Serbia
+3857258,80,Brazil,Carlos Henrique Casimiro,Post,0.06218912,"[98.1, 35.2]",2022-11-24,Serbia
+3857258,81,Brazil,Rodrygo Silva de Goes,Saved,0.03669105,"[98.8, 27.3]",2022-11-24,Serbia
+3857258,82,Brazil,Frederico Rodrigues Santos,Saved,0.088970646,"[95.6, 43.5]",2022-11-24,Serbia
+3857258,84,Serbia,Nikola Milenković,Blocked,0.011090157,"[99.3, 59.6]",2022-11-24,Brazil
+3857258,86,Brazil,Rodrygo Silva de Goes,Off T,0.051727816,"[101.5, 30.6]",2022-11-24,Serbia
+3857258,87,Brazil,Antony Matheus dos Santos,Off T,0.009657804,"[99.4, 59.1]",2022-11-24,Serbia
+3857258,97,Serbia,Nemanja Radonjić,Blocked,0.008691933,"[93.8, 21.5]",2022-11-24,Brazil
+3857288,5,Australia,Fran Karačić,Blocked,0.015131147,"[90.9, 41.2]",2022-11-26,Tunisia
+3857288,20,Tunisia,Mohamed Dräger,Off T,0.029703999,"[92.0, 42.5]",2022-11-26,Australia
+3857288,22,Australia,Mitchell Thomas Duke,Goal,0.04459479,"[110.1, 32.5]",2022-11-26,Tunisia
+3857288,26,Australia,Mitchell Thomas Duke,Blocked,0.03948435,"[110.7, 34.3]",2022-11-26,Tunisia
+3857288,33,Australia,Jackson Irvine,Off T,0.07543106,"[114.3, 48.2]",2022-11-26,Tunisia
+3857288,37,Tunisia,Youssef Msakni,Blocked,0.031703874,"[102.8, 54.8]",2022-11-26,Australia
+3857288,40,Tunisia,Mohamed Dräger,Blocked,0.21984866,"[109.2, 48.4]",2022-11-26,Australia
+3857288,43,Australia,Mitchell Thomas Duke,Saved,0.040856346,"[104.9, 40.6]",2022-11-26,Tunisia
+3857288,43,Australia,Fran Karačić,Blocked,0.035070673,"[106.4, 54.9]",2022-11-26,Tunisia
+3857288,45,Australia,Fran Karačić,Wayward,0.0052714557,"[87.2, 52.2]",2022-11-26,Tunisia
+3857288,47,Tunisia,Youssef Msakni,Off T,0.23484555,"[111.0, 45.5]",2022-11-26,Australia
+3857288,56,Australia,Mitchell Thomas Duke,Wayward,0.06400663,"[107.3, 39.8]",2022-11-26,Tunisia
+3857288,60,Tunisia,Ferjani Sassi,Off T,0.020219443,"[91.2, 52.7]",2022-11-26,Australia
+3857288,65,Tunisia,Youssef Msakni,Blocked,0.058604978,"[101.8, 31.8]",2022-11-26,Australia
+3857288,71,Tunisia,Youssef Msakni,Saved,0.026706748,"[108.1, 25.0]",2022-11-26,Australia
+3857288,71,Tunisia,Youssef Msakni,Saved,0.048467197,"[95.6, 42.2]",2022-11-26,Australia
+3857288,73,Australia,Aaron Mooy,Off T,0.039191317,"[95.6, 44.1]",2022-11-26,Tunisia
+3857288,74,Tunisia,Youssef Msakni,Off T,0.10262261,"[110.1, 38.0]",2022-11-26,Australia
+3857288,83,Tunisia,Montassar Omar Talbi,Saved,0.012159805,"[89.6, 34.9]",2022-11-26,Australia
+3857288,85,Tunisia,Taha Yassine Khenissi,Blocked,0.012915949,"[98.4, 54.6]",2022-11-26,Australia
+3857288,86,Tunisia,Naïm Sliti,Blocked,0.1403044,"[109.8, 47.4]",2022-11-26,Australia
+3857288,87,Tunisia,Wahbi Khazri,Saved,0.09264534,"[109.9, 49.4]",2022-11-26,Australia
+3857288,91,Tunisia,Wahbi Khazri,Blocked,0.021421792,"[108.4, 24.1]",2022-11-26,Australia
+3857267,2,Senegal,Idrissa Gana Gueye,Off T,0.21271749,"[106.9, 45.7]",2022-11-29,Ecuador
+3857267,7,Senegal,Boulaye Dia,Off T,0.16839646,"[109.3, 51.9]",2022-11-29,Ecuador
+3857267,9,Ecuador,Enner Remberto Valencia Lastra,Blocked,0.021615954,"[86.9, 40.9]",2022-11-29,Senegal
+3857267,9,Ecuador,Enner Remberto Valencia Lastra,Blocked,0.02803523,"[95.9, 37.7]",2022-11-29,Senegal
+3857267,10,Senegal,Ismaïla Sarr,Blocked,0.042373266,"[99.2, 40.2]",2022-11-29,Ecuador
+3857267,11,Senegal,Iliman Ndiaye,Off T,0.02889044,"[99.7, 52.9]",2022-11-29,Ecuador
+3857267,23,Senegal,Ismaïla Sarr,Blocked,0.023828069,"[104.1, 25.5]",2022-11-29,Ecuador
+3857267,24,Senegal,Pape Gueye,Blocked,0.025696881,"[93.0, 36.3]",2022-11-29,Ecuador
+3857267,24,Senegal,Abdou Diallo,Wayward,0.035411544,"[107.9, 41.9]",2022-11-29,Ecuador
+3857267,36,Senegal,Pathé Ismaël Ciss,Off T,0.03057826,"[108.1, 33.6]",2022-11-29,Ecuador
+3857267,43,Senegal,Ismaïla Sarr,Goal,0.7835,"[108.0, 40.0]",2022-11-29,Ecuador
+3857267,46,Senegal,Iliman Ndiaye,Blocked,0.04522632,"[107.3, 46.7]",2022-11-29,Ecuador
+3857267,48,Ecuador,José Adoni Cifuentes Charcopa,Saved,0.025271386,"[93.8, 51.3]",2022-11-29,Senegal
+3857267,56,Ecuador,Michael Steveen Estrada Martínez,Off T,0.042533338,"[106.7, 38.8]",2022-11-29,Senegal
+3857267,66,Ecuador,Felix Eduardo Torres Caicedo,Wayward,0.15397952,"[113.7, 42.7]",2022-11-29,Senegal
+3857267,66,Ecuador,Moisés Isaac Caicedo Corozo,Goal,0.5894187,"[117.2, 35.6]",2022-11-29,Senegal
+3857267,69,Senegal,Kalidou Koulibaly,Goal,0.23427999,"[114.3, 46.0]",2022-11-29,Ecuador
+3857267,75,Ecuador,Gonzalo Jordy Plata Jiménez,Saved,0.058988493,"[107.0, 42.8]",2022-11-29,Senegal
+3857267,81,Senegal,Boulaye Dia,Off T,0.04455093,"[101.3, 54.6]",2022-11-29,Ecuador
+3857267,87,Senegal,Pape Gueye,Saved,0.03201506,"[102.6, 54.8]",2022-11-29,Ecuador
+3857267,88,Ecuador,Jeremy Leonel Sarmiento Morante,Saved,0.02928531,"[105.3, 32.1]",2022-11-29,Senegal
+3857267,93,Ecuador,Jackson Gabriel Porozo Vernaza,Off T,0.052534856,"[105.9, 34.3]",2022-11-29,Senegal
+3857287,12,Uruguay,Matías Vecino Falero,Saved,0.052239094,"[109.5, 28.6]",2022-11-24,South Korea
+3857287,18,Uruguay,Federico Santiago Valverde Dipetta,Off T,0.05187739,"[103.9, 35.4]",2022-11-24,South Korea
+3857287,33,South Korea,Ui-Jo Hwang,Off T,0.323128,"[108.9, 42.7]",2022-11-24,Uruguay
+3857287,38,South Korea,In-Beom Hwang,Off T,0.007071261,"[89.7, 57.6]",2022-11-24,Uruguay
+3857287,42,Uruguay,Diego Roberto Godín Leal,Post,0.054689027,"[110.0, 40.4]",2022-11-24,South Korea
+3857287,45,Uruguay,José María Giménez de Vargas,Off T,0.046385217,"[103.5, 35.9]",2022-11-24,South Korea
+3857287,52,South Korea,Min Jae Kim,Wayward,0.046898182,"[111.5, 46.1]",2022-11-24,Uruguay
+3857287,54,Uruguay,Rodrigo Bentancur Colmán,Blocked,0.052523207,"[101.3, 38.3]",2022-11-24,South Korea
+3857287,68,Uruguay,Federico Santiago Valverde Dipetta,Wayward,0.014167523,"[90.5, 27.4]",2022-11-24,South Korea
+3857287,68,Uruguay,Edinson Roberto Cavani Gómez,Blocked,0.03804607,"[106.6, 47.5]",2022-11-24,South Korea
+3857287,74,South Korea,Kang-In Lee,Blocked,0.023162797,"[94.5, 54.2]",2022-11-24,Uruguay
+3857287,76,South Korea,Gue-Sung Cho,Off T,0.036145955,"[93.4, 42.0]",2022-11-24,Uruguay
+3857287,80,Uruguay,Darwin Gabriel Núñez Ribeiro,Off T,0.028178101,"[100.6, 28.3]",2022-11-24,South Korea
+3857287,86,Uruguay,Edinson Roberto Cavani Gómez,Off T,0.06689449,"[110.5, 39.7]",2022-11-24,South Korea
+3857287,88,Uruguay,Federico Santiago Valverde Dipetta,Post,0.012294213,"[95.7, 22.6]",2022-11-24,South Korea
+3857287,89,South Korea,Heung-Min Son,Off T,0.0335565,"[93.8, 36.6]",2022-11-24,Uruguay
+3857287,93,South Korea,In-Beom Hwang,Off T,0.023029828,"[94.9, 26.7]",2022-11-24,Uruguay
+3869486,3,Portugal,João Félix Sequeira,Saved,0.0989785,"[106.8, 44.2]",2022-12-10,Morocco
+3869486,5,Morocco,Youssef En-Nesyri,Off T,0.117904566,"[112.7, 39.4]",2022-12-10,Portugal
+3869486,12,Portugal,Raphaël Adelino José Guerreiro,Blocked,0.019215545,"[105.6, 23.6]",2022-12-10,Morocco
+3869486,17,Morocco,Hakim Ziyech,Off T,0.008206696,"[96.1, 60.9]",2022-12-10,Portugal
+3869486,25,Morocco,Youssef En-Nesyri,Off T,0.043849364,"[106.7, 39.8]",2022-12-10,Portugal
+3869486,30,Portugal,João Félix Sequeira,Blocked,0.027014187,"[100.9, 27.7]",2022-12-10,Morocco
+3869486,34,Morocco,Selim Amallah,Off T,0.06053267,"[108.7, 31.3]",2022-12-10,Portugal
+3869486,34,Morocco,Sofiane Boufal,Saved,0.03503226,"[97.0, 27.8]",2022-12-10,Portugal
+3869486,38,Portugal,João Félix Sequeira,Off T,0.060545366,"[102.2, 35.4]",2022-12-10,Morocco
+3869486,41,Morocco,Youssef En-Nesyri,Goal,0.20030825,"[112.6, 39.7]",2022-12-10,Portugal
+3869486,44,Portugal,Bruno Miguel Borges Fernandes,Post,0.0067060287,"[108.0, 62.3]",2022-12-10,Morocco
+3869486,46,Morocco,Yahia Attiyat allah,Off T,0.082217455,"[107.6, 26.3]",2022-12-10,Portugal
+3869486,55,Morocco,Azzedine Ounahi,Off T,0.032880384,"[93.4, 44.2]",2022-12-10,Portugal
+3869486,57,Portugal,Gonçalo Matias Ramos,Off T,0.10594022,"[108.7, 40.0]",2022-12-10,Morocco
+3869486,60,Portugal,João Félix Sequeira,Blocked,0.026895314,"[109.7, 29.4]",2022-12-10,Morocco
+3869486,63,Portugal,Bruno Miguel Borges Fernandes,Off T,0.057325892,"[101.0, 35.5]",2022-12-10,Morocco
+3869486,70,Portugal,Bernardo Mota Veiga de Carvalho e Silva,Wayward,0.10927713,"[109.8, 35.9]",2022-12-10,Morocco
+3869486,81,Portugal,João Félix Sequeira,Saved,0.025960794,"[102.0, 57.1]",2022-12-10,Morocco
+3869486,90,Portugal,Cristiano Ronaldo dos Santos Aveiro,Saved,0.05699573,"[101.8, 53.7]",2022-12-10,Morocco
+3869486,95,Morocco,Zakaria Aboukhlal,Saved,0.39109123,"[101.1, 45.9]",2022-12-10,Portugal
+3869486,96,Portugal,Kléper Laveran Lima Ferreira,Off T,0.14926605,"[114.1, 44.5]",2022-12-10,Morocco
+3857260,1,Mexico,Luis Gerardo Chávez Magallón,Off T,0.021919996,"[91.7, 51.5]",2022-11-30,Saudi Arabia
+3857260,2,Saudi Arabia,Saleh Khalid Al Shehri,Saved,0.02182735,"[92.9, 41.7]",2022-11-30,Mexico
+3857260,2,Mexico,Ernesto Alexis Vega Rojas,Saved,0.3665275,"[101.6, 38.9]",2022-11-30,Saudi Arabia
+3857260,7,Saudi Arabia,Mohammed Kanoo,Off T,0.047937077,"[113.0, 54.1]",2022-11-30,Mexico
+3857260,12,Saudi Arabia,Mohammed Kanoo,Off T,0.073429175,"[96.3, 33.5]",2022-11-30,Mexico
+3857260,22,Mexico,Luis Gerardo Chávez Magallón,Saved,0.01981399,"[92.7, 40.4]",2022-11-30,Saudi Arabia
+3857260,24,Mexico,Orbelín Pineda Alvarado,Saved,0.0489465,"[104.0, 44.6]",2022-11-30,Saudi Arabia
+3857260,26,Mexico,Orbelín Pineda Alvarado,Wayward,0.30787364,"[115.8, 34.5]",2022-11-30,Saudi Arabia
+3857260,34,Mexico,Luis Gerardo Chávez Magallón,Blocked,0.016814427,"[89.6, 28.9]",2022-11-30,Saudi Arabia
+3857260,35,Mexico,Jesús Daniel Gallardo Vasconcelos,Off T,0.06430086,"[106.8, 43.3]",2022-11-30,Saudi Arabia
+3857260,40,Mexico,Luis Gerardo Chávez Magallón,Blocked,0.0066389865,"[84.6, 49.2]",2022-11-30,Saudi Arabia
+3857260,40,Mexico,Orbelín Pineda Alvarado,Blocked,0.062194254,"[102.0, 45.2]",2022-11-30,Saudi Arabia
+3857260,44,Mexico,Ernesto Alexis Vega Rojas,Blocked,0.04950449,"[106.1, 29.3]",2022-11-30,Saudi Arabia
+3857260,44,Mexico,Luis Gerardo Chávez Magallón,Blocked,0.015146091,"[92.9, 30.0]",2022-11-30,Saudi Arabia
+3857260,50,Saudi Arabia,Ali Al Hassan,Off T,0.10154356,"[110.1, 45.6]",2022-11-30,Mexico
+3857260,46,Mexico,Luis Gerardo Chávez Magallón,Saved,0.018109906,"[85.5, 41.2]",2022-11-30,Saudi Arabia
+3857260,46,Mexico,Hirving Rodrigo Lozano Bahena,Blocked,0.0068189544,"[102.7, 19.2]",2022-11-30,Saudi Arabia
+3857260,46,Mexico,Henry Josué Martín Mex,Goal,0.28809994,"[116.7, 40.2]",2022-11-30,Saudi Arabia
+3857260,49,Saudi Arabia,Sultan Abdullah Salim Al Ghannam,Off T,0.21450256,"[115.8, 46.7]",2022-11-30,Mexico
+3857260,51,Mexico,Luis Gerardo Chávez Magallón,Goal,0.024289701,"[86.7, 41.3]",2022-11-30,Saudi Arabia
+3857260,54,Saudi Arabia,Sultan Abdullah Salim Al Ghannam,Off T,0.030311959,"[114.8, 52.4]",2022-11-30,Mexico
+3857260,58,Mexico,Henry Josué Martín Mex,Wayward,0.09122391,"[112.0, 40.0]",2022-11-30,Saudi Arabia
+3857260,61,Saudi Arabia,Abdulelah Al Amri,Off T,0.037819926,"[109.1, 45.1]",2022-11-30,Mexico
+3857260,66,Mexico,Hirving Rodrigo Lozano Bahena,Saved,0.05300886,"[97.5, 31.3]",2022-11-30,Saudi Arabia
+3857260,66,Saudi Arabia,Firas Tariq Nasser Al Albirakan,Blocked,0.013105479,"[101.4, 25.4]",2022-11-30,Mexico
+3857260,69,Mexico,Henry Josué Martín Mex,Off T,0.22500646,"[108.8, 34.9]",2022-11-30,Saudi Arabia
+3857260,72,Mexico,Luis Gerardo Chávez Magallón,Saved,0.027150616,"[87.3, 40.5]",2022-11-30,Saudi Arabia
+3857260,75,Mexico,Orbelín Pineda Alvarado,Off T,0.08600338,"[100.5, 32.9]",2022-11-30,Saudi Arabia
+3857260,77,Mexico,Carlos Uriel Antuna Romero,Blocked,0.26870292,"[109.4, 35.9]",2022-11-30,Saudi Arabia
+3857260,77,Mexico,Edson Omar Álvarez Velázquez,Saved,0.013687578,"[85.8, 42.8]",2022-11-30,Saudi Arabia
+3857260,80,Saudi Arabia,Salem Mohammed Al Dawsari,Off T,0.019886926,"[89.2, 40.3]",2022-11-30,Mexico
+3857260,82,Mexico,Luis Gerardo Chávez Magallón,Blocked,0.057560198,"[101.0, 46.0]",2022-11-30,Saudi Arabia
+3857260,88,Mexico,Rogelio Gabriel Funes Mori,Blocked,0.06664524,"[98.8, 37.4]",2022-11-30,Saudi Arabia
+3857260,91,Mexico,Hirving Rodrigo Lozano Bahena,Saved,0.05359905,"[92.9, 31.8]",2022-11-30,Saudi Arabia
+3857260,93,Mexico,Hirving Rodrigo Lozano Bahena,Off T,0.06253588,"[101.9, 28.3]",2022-11-30,Saudi Arabia
+3857260,94,Saudi Arabia,Salem Mohammed Al Dawsari,Goal,0.51574713,"[110.9, 45.2]",2022-11-30,Mexico
+3857264,4,Poland,Krystian Bielik,Blocked,0.061495427,"[100.7, 41.3]",2022-11-30,Argentina
+3857264,6,Argentina,Lionel Andrés Messi Cuccittini,Saved,0.050872557,"[99.0, 37.7]",2022-11-30,Poland
+3857264,8,Argentina,Ángel Fabián Di María Hernández,Blocked,0.034158513,"[94.3, 40.5]",2022-11-30,Poland
+3857264,9,Argentina,Lionel Andrés Messi Cuccittini,Saved,0.053250678,"[111.7, 25.8]",2022-11-30,Poland
+3857264,16,Argentina,Marcos Javier Acuña,Off T,0.05141401,"[107.0, 27.9]",2022-11-30,Poland
+3857264,21,Poland,Kamil Glik,Wayward,0.06557972,"[105.9, 43.5]",2022-11-30,Argentina
+3857264,27,Argentina,Julián Álvarez,Blocked,0.1493578,"[110.8, 47.7]",2022-11-30,Poland
+3857264,27,Argentina,Marcos Javier Acuña,Off T,0.024708062,"[102.9, 22.5]",2022-11-30,Poland
+3857264,32,Argentina,Ángel Fabián Di María Hernández,Saved,0.00018,"[119.6, 79.2]",2022-11-30,Poland
+3857264,34,Argentina,Enzo Fernandez,Off T,0.024548035,"[91.6, 39.7]",2022-11-30,Poland
+3857264,35,Argentina,Julián Álvarez,Saved,0.19083758,"[110.4, 27.6]",2022-11-30,Poland
+3857264,38,Argentina,Lionel Andrés Messi Cuccittini,Saved,0.7835,"[108.1, 40.1]",2022-11-30,Poland
+3857264,42,Argentina,Julián Álvarez,Saved,0.03720347,"[102.4, 27.0]",2022-11-30,Poland
+3857264,42,Argentina,Rodrigo Javier De Paul,Saved,0.3152717,"[112.2, 40.3]",2022-11-30,Poland
+3857264,43,Argentina,Ángel Fabián Di María Hernández,Saved,0.010134568,"[106.7, 58.4]",2022-11-30,Poland
+3857264,45,Argentina,Alexis Mac Allister,Goal,0.107545994,"[106.0, 46.7]",2022-11-30,Poland
+3857264,49,Poland,Kamil Glik,Off T,0.04381306,"[108.8, 43.5]",2022-11-30,Argentina
+3857264,52,Poland,Michał Skóraś,Blocked,0.026707038,"[101.1, 56.9]",2022-11-30,Argentina
+3857264,52,Argentina,Lionel Andrés Messi Cuccittini,Wayward,0.06119443,"[105.8, 28.4]",2022-11-30,Poland
+3857264,55,Argentina,Lionel Andrés Messi Cuccittini,Wayward,0.058334265,"[109.4, 50.7]",2022-11-30,Poland
+3857264,55,Argentina,Julián Álvarez,Blocked,0.15200824,"[107.7, 41.5]",2022-11-30,Poland
+3857264,60,Argentina,Alexis Mac Allister,Saved,0.13009955,"[106.0, 46.0]",2022-11-30,Poland
+3857264,63,Argentina,Lionel Andrés Messi Cuccittini,Blocked,0.023947677,"[107.2, 25.9]",2022-11-30,Poland
+3857264,66,Argentina,Julián Álvarez,Goal,0.10054177,"[106.0, 33.5]",2022-11-30,Poland
+3857264,70,Argentina,Lionel Andrés Messi Cuccittini,Saved,0.13232325,"[106.5, 35.1]",2022-11-30,Poland
+3857264,72,Argentina,Julián Álvarez,Off T,0.18145993,"[106.1, 52.6]",2022-11-30,Poland
+3857264,85,Argentina,Lautaro Javier Martínez,Off T,0.17955275,"[109.4, 52.2]",2022-11-30,Poland
+3857264,91,Argentina,Nicolás Alejandro Tagliafico,Saved,0.22421487,"[108.2, 30.2]",2022-11-30,Poland
+3857289,9,Mexico,César Jasib Montes Castro,Off T,0.0988946,"[107.6, 38.6]",2022-11-26,Argentina
+3857289,39,Argentina,Lautaro Javier Martínez,Off T,0.13799548,"[112.7, 39.5]",2022-11-26,Mexico
+3857289,44,Mexico,Ernesto Alexis Vega Rojas,Saved,0.05948228,"[92.4, 35.8]",2022-11-26,Argentina
+3857289,49,Mexico,Ernesto Alexis Vega Rojas,Off T,0.0077116457,"[92.8, 23.0]",2022-11-26,Argentina
+3857289,47,Mexico,Hirving Rodrigo Lozano Bahena,Blocked,0.040303126,"[93.5, 36.8]",2022-11-26,Argentina
+3857289,50,Argentina,Lionel Andrés Messi Cuccittini,Off T,0.067327775,"[94.8, 41.9]",2022-11-26,Mexico
+3857289,63,Argentina,Lionel Andrés Messi Cuccittini,Goal,0.033919714,"[94.9, 37.4]",2022-11-26,Mexico
+3857289,69,Argentina,Nahuel Molina Lucero,Off T,0.050896797,"[101.5, 49.2]",2022-11-26,Mexico
+3857289,86,Argentina,Enzo Fernandez,Goal,0.035064373,"[106.5, 22.8]",2022-11-26,Mexico
+3869254,4,Switzerland,Breel-Donald Embolo,Blocked,0.06137733,"[104.1, 27.2]",2022-12-06,Portugal
+3869254,16,Portugal,Gonçalo Matias Ramos,Goal,0.10102074,"[111.3, 27.5]",2022-12-06,Switzerland
+3869254,21,Portugal,Otávio Edmilson da Silva Monteiro,Saved,0.032515083,"[101.4, 36.8]",2022-12-06,Switzerland
+3869254,21,Portugal,Gonçalo Matias Ramos,Saved,0.072023906,"[100.7, 32.2]",2022-12-06,Switzerland
+3869254,29,Switzerland,Xherdan Shaqiri,Saved,0.023890225,"[87.2, 46.1]",2022-12-06,Portugal
+3869254,32,Portugal,Kléper Laveran Lima Ferreira,Goal,0.12779379,"[114.3, 40.0]",2022-12-06,Switzerland
+3869254,37,Switzerland,Remo Freuler,Saved,0.2948616,"[115.9, 44.0]",2022-12-06,Portugal
+3869254,37,Switzerland,Fabian Lukas Schär,Off T,0.024413843,"[99.9, 53.7]",2022-12-06,Portugal
+3869254,42,Portugal,Gonçalo Matias Ramos,Saved,0.31703457,"[107.5, 33.4]",2022-12-06,Switzerland
+3869254,47,Portugal,Raphaël Adelino José Guerreiro,Off T,0.021823613,"[96.0, 25.0]",2022-12-06,Switzerland
+3869254,48,Portugal,Gonçalo Matias Ramos,Wayward,0.09938955,"[114.4, 35.1]",2022-12-06,Switzerland
+3869254,50,Portugal,Gonçalo Matias Ramos,Goal,0.5086819,"[115.8, 44.4]",2022-12-06,Switzerland
+3869254,52,Portugal,João Félix Sequeira,Blocked,0.043932665,"[103.5, 26.4]",2022-12-06,Switzerland
+3869254,53,Portugal,Kléper Laveran Lima Ferreira,Wayward,0.05800441,"[110.8, 35.6]",2022-12-06,Switzerland
+3869254,54,Portugal,Raphaël Adelino José Guerreiro,Goal,0.35848966,"[110.9, 32.4]",2022-12-06,Switzerland
+3869254,57,Switzerland,Manuel Obafemi Akanji,Goal,0.6688656,"[118.7, 35.4]",2022-12-06,Portugal
+3869254,65,Switzerland,Xherdan Shaqiri,Wayward,0.007870479,"[101.7, 63.9]",2022-12-06,Portugal
+3869254,66,Portugal,Gonçalo Matias Ramos,Goal,0.46699882,"[112.6, 45.8]",2022-12-06,Switzerland
+3869254,70,Switzerland,Denis Lemi Zakaria Lako Lado,Blocked,0.04188712,"[97.5, 36.4]",2022-12-06,Portugal
+3869254,75,Portugal,Cristiano Ronaldo dos Santos Aveiro,Blocked,0.028790973,"[88.9, 44.9]",2022-12-06,Switzerland
+3869254,79,Switzerland,Breel-Donald Embolo,Blocked,0.032889098,"[102.1, 39.2]",2022-12-06,Portugal
+3869254,80,Switzerland,Granit Xhaka,Off T,0.0836758,"[113.2, 34.5]",2022-12-06,Portugal
+3869254,84,Switzerland,Noah Okafor,Blocked,0.032096077,"[108.4, 23.1]",2022-12-06,Portugal
+3869254,91,Portugal,Rafael Alexandre Conceição Leão,Goal,0.010257767,"[105.0, 21.7]",2022-12-06,Switzerland
+3869254,93,Portugal,Rúben Santos Gato Alves Dias,Blocked,0.03750256,"[108.0, 41.9]",2022-12-06,Switzerland
+3869118,20,England,John Stones,Off T,0.08366814,"[113.5, 45.4]",2022-12-04,Senegal
+3869118,21,Senegal,Boulaye Dia,Blocked,0.05336251,"[108.6, 42.7]",2022-12-04,England
+3869118,22,Senegal,Ismaïla Sarr,Off T,0.629174,"[115.7, 40.5]",2022-12-04,England
+3869118,31,Senegal,Boulaye Dia,Saved,0.0358749,"[112.8, 28.9]",2022-12-04,England
+3869118,38,England,Jordan Brian Henderson,Goal,0.13174866,"[107.6, 38.0]",2022-12-04,Senegal
+3869118,40,England,Harry Kane,Off T,0.18422936,"[110.0, 39.3]",2022-12-04,Senegal
+3869118,47,England,Harry Kane,Goal,0.20664306,"[104.3, 50.7]",2022-12-04,Senegal
+3869118,49,Senegal,Pape Matar Sarr,Off T,0.018660808,"[92.8, 35.2]",2022-12-04,England
+3869118,53,England,Bukayo Saka,Off T,0.03518777,"[107.7, 53.4]",2022-12-04,Senegal
+3869118,55,England,Harry Kane,Saved,0.015214441,"[90.5, 27.1]",2022-12-04,Senegal
+3869118,56,England,Bukayo Saka,Goal,0.21738943,"[111.0, 35.9]",2022-12-04,Senegal
+3869118,68,Senegal,Pape Matar Sarr,Blocked,0.013223637,"[89.0, 36.2]",2022-12-04,England
+3869118,73,Senegal,Pape Matar Sarr,Off T,0.021199826,"[87.8, 49.9]",2022-12-04,England
+3869118,83,Senegal,Ismaïla Sarr,Off T,0.107544675,"[111.6, 39.3]",2022-12-04,England
+3869118,86,Senegal,Pape Gueye,Blocked,0.027956013,"[96.7, 52.4]",2022-12-04,England
+3869118,88,Senegal,Pape Matar Sarr,Off T,0.032847784,"[93.1, 38.3]",2022-12-04,England
+3869118,90,England,Marcus Rashford,Off T,0.1459426,"[117.8, 45.9]",2022-12-04,Senegal
+3869118,92,Senegal,Cheikh Ahmadou Bamba Mbacke Dieng,Blocked,0.03296228,"[94.0, 54.7]",2022-12-04,England
+3869519,15,Croatia,Dejan Lovren,Off T,0.014029023,"[115.0, 27.7]",2022-12-13,Argentina
+3869519,24,Argentina,Enzo Fernandez,Saved,0.027808638,"[93.1, 36.9]",2022-12-13,Croatia
+3869519,30,Croatia,Ivan Perišić,Off T,0.034139045,"[106.9, 23.2]",2022-12-13,Argentina
+3869519,33,Argentina,Lionel Andrés Messi Cuccittini,Goal,0.7835,"[108.0, 40.0]",2022-12-13,Croatia
+3869519,38,Argentina,Julián Álvarez,Goal,0.36172354,"[112.7, 37.4]",2022-12-13,Croatia
+3869519,40,Argentina,Rodrigo Javier De Paul,Blocked,0.027667157,"[95.6, 51.4]",2022-12-13,Croatia
+3869519,41,Argentina,Alexis Mac Allister,Saved,0.0684051,"[113.5, 32.8]",2022-12-13,Croatia
+3869519,44,Croatia,Luka Modrić,Blocked,0.026162526,"[92.9, 46.3]",2022-12-13,Argentina
+3869519,44,Croatia,Mario Pašalić,Off T,0.07864248,"[119.4, 45.8]",2022-12-13,Argentina
+3869519,48,Argentina,Leandro Daniel Paredes,Saved,0.014370957,"[85.0, 44.8]",2022-12-13,Croatia
+3869519,57,Argentina,Lionel Andrés Messi Cuccittini,Saved,0.10581502,"[112.7, 30.1]",2022-12-13,Croatia
+3869519,57,Croatia,Mislav Oršić,Blocked,0.021008598,"[98.4, 22.8]",2022-12-13,Argentina
+3869519,61,Croatia,Dejan Lovren,Blocked,0.09374543,"[112.7, 40.1]",2022-12-13,Argentina
+3869519,68,Argentina,Julián Álvarez,Goal,0.33366448,"[113.3, 45.4]",2022-12-13,Croatia
+3869519,72,Croatia,Ivan Perišić,Saved,0.00752127,"[82.3, 43.9]",2022-12-13,Argentina
+3869519,74,Croatia,Ivan Perišić,Off T,0.0058680973,"[85.8, 21.3]",2022-12-13,Argentina
+3869519,77,Croatia,Mislav Oršić,Off T,0.011610668,"[108.0, 21.9]",2022-12-13,Argentina
+3869519,82,Argentina,Alexis Mac Allister,Off T,0.14140838,"[107.1, 46.7]",2022-12-13,Croatia
+3869519,88,Croatia,Lovro Majer,Saved,0.044770177,"[96.0, 35.4]",2022-12-13,Argentina
+3869519,92,Croatia,Nikola Vlašić,Off T,0.049129687,"[103.6, 52.3]",2022-12-13,Argentina
+3869519,94,Croatia,Dejan Lovren,Off T,0.02342664,"[89.3, 36.5]",2022-12-13,Argentina
+3869354,3,England,Philip Foden,Blocked,0.022691524,"[100.2, 40.0]",2022-12-10,France
+3869354,10,France,Olivier Giroud,Saved,0.21537142,"[110.3, 38.2]",2022-12-10,England
+3869354,16,France,Aurélien Djani Tchouaméni,Goal,0.027870113,"[92.5, 43.5]",2022-12-10,England
+3869354,20,England,Luke Shaw,Saved,0.05589417,"[98.0, 53.2]",2022-12-10,France
+3869354,21,England,Harry Kane,Saved,0.07522586,"[113.6, 52.2]",2022-12-10,France
+3869354,21,England,Jude Bellingham,Blocked,0.21807538,"[117.3, 35.7]",2022-12-10,France
+3869354,28,England,Harry Kane,Saved,0.018916143,"[96.7, 57.1]",2022-12-10,France
+3869354,38,France,Kylian Mbappé Lottin,Off T,0.06798863,"[107.9, 32.9]",2022-12-10,England
+3869354,46,England,Jude Bellingham,Saved,0.046397094,"[101.1, 48.0]",2022-12-10,France
+3869354,47,England,Harry Maguire,Blocked,0.048588943,"[116.2, 30.9]",2022-12-10,France
+3869354,51,England,Jordan Brian Henderson,Blocked,0.017202334,"[101.1, 56.4]",2022-12-10,France
+3869354,53,England,Harry Kane,Goal,0.7835,"[108.1, 40.1]",2022-12-10,France
+3869354,54,France,Adrien Rabiot,Saved,0.06667264,"[95.6, 43.2]",2022-12-10,England
+3869354,59,England,Bukayo Saka,Saved,0.07073746,"[103.2, 47.6]",2022-12-10,France
+3869354,60,France,Ousmane Dembélé,Blocked,0.030820057,"[99.5, 53.8]",2022-12-10,England
+3869354,61,England,Harry Kane,Saved,0.029508974,"[99.1, 53.8]",2022-12-10,France
+3869354,69,England,Harry Maguire,Post,0.07199757,"[109.1, 35.0]",2022-12-10,France
+3869354,70,England,Luke Shaw,Blocked,0.006951497,"[108.4, 21.7]",2022-12-10,France
+3869354,74,France,Olivier Giroud,Off T,0.075690374,"[112.9, 47.0]",2022-12-10,England
+3869354,76,France,Olivier Giroud,Saved,0.20829616,"[111.3, 40.5]",2022-12-10,England
+3869354,77,France,Olivier Giroud,Goal,0.14665264,"[114.7, 36.4]",2022-12-10,England
+3869354,83,England,Harry Kane,Off T,0.7835,"[108.1, 40.1]",2022-12-10,France
+3869354,88,England,Mason Mount,Off T,0.024138648,"[89.5, 44.7]",2022-12-10,France
+3869354,100,England,Marcus Rashford,Off T,0.07922588,"[97.5, 34.1]",2022-12-10,France
+3869552,4,France,Kylian Mbappé Lottin,Blocked,0.09459595,"[108.5, 47.3]",2022-12-14,Morocco
+3869552,4,France,Theo Bernard François Hernández,Goal,0.0979349,"[115.7, 31.5]",2022-12-14,Morocco
+3869552,9,Morocco,Azzedine Ounahi,Saved,0.01924696,"[95.5, 26.2]",2022-12-14,France
+3869552,16,Morocco,Hakim Ziyech,Off T,0.06111174,"[106.4, 54.6]",2022-12-14,France
+3869552,16,France,Olivier Giroud,Post,0.09802507,"[105.4, 26.8]",2022-12-14,Morocco
+3869552,25,Morocco,Achraf Hakimi Mouh,Blocked,0.020597277,"[95.3, 53.3]",2022-12-14,France
+3869552,32,France,Aurélien Djani Tchouaméni,Blocked,0.040336993,"[96.0, 32.9]",2022-12-14,Morocco
+3869552,34,France,Olivier Giroud,Blocked,0.060999498,"[111.9, 44.5]",2022-12-14,Morocco
+3869552,34,France,Youssouf Fofana,Off T,0.061363008,"[104.3, 46.5]",2022-12-14,Morocco
+3869552,35,France,Kylian Mbappé Lottin,Blocked,0.15100354,"[111.7, 30.9]",2022-12-14,Morocco
+3869552,35,France,Olivier Giroud,Off T,0.2635025,"[105.8, 42.5]",2022-12-14,Morocco
+3869552,39,France,Raphaël Varane,Off T,0.07554505,"[113.7, 47.9]",2022-12-14,Morocco
+3869552,43,Morocco,Jawad El Yamiq,Saved to Post,0.06408756,"[107.2, 33.9]",2022-12-14,France
+3869552,43,Morocco,Sofiane Boufal,Off T,0.035300843,"[96.7, 37.2]",2022-12-14,France
+3869552,46,France,Jules Koundé,Blocked,0.01766911,"[94.0, 50.6]",2022-12-14,Morocco
+3869552,52,Morocco,Yahia Attiyat allah,Wayward,0.24936919,"[109.8, 35.1]",2022-12-14,France
+3869552,53,Morocco,Sofyan Amrabat,Off T,0.020691318,"[92.5, 36.0]",2022-12-14,France
+3869552,70,France,Marcus Thuram,Off T,0.115658596,"[114.5, 45.5]",2022-12-14,Morocco
+3869552,73,France,Youssouf Fofana,Off T,0.040043775,"[111.6, 27.3]",2022-12-14,Morocco
+3869552,78,France,Kylian Mbappé Lottin,Blocked,0.033641826,"[107.2, 29.8]",2022-12-14,Morocco
+3869552,78,France,Randal Kolo Muani,Goal,0.8521293,"[115.6, 43.8]",2022-12-14,Morocco
+3869552,85,Morocco,Zakaria Aboukhlal,Wayward,0.024939176,"[107.1, 41.0]",2022-12-14,France
+3869552,92,Morocco,Abdessamad Ezzalzouli,Blocked,0.05950738,"[106.9, 32.9]",2022-12-14,France
+3869552,92,Morocco,Azzedine Ounahi,Blocked,0.06379096,"[103.0, 48.2]",2022-12-14,France
+3869552,93,Morocco,Azzedine Ounahi,Blocked,0.03807111,"[98.1, 48.0]",2022-12-14,France
+3869552,93,Morocco,Azzedine Ounahi,Blocked,0.067406826,"[108.6, 44.6]",2022-12-14,France
+3869552,93,Morocco,Abderrazak Hamdallah,Blocked,0.50624365,"[115.9, 37.4]",2022-12-14,France
+3869420,4,Brazil,Vinícius José Paixão de Oliveira Júnior,Saved,0.008460451,"[98.8, 20.8]",2022-12-09,Croatia
+3869420,12,Croatia,Ivan Perišić,Off T,0.19016835,"[112.2, 43.2]",2022-12-09,Brazil
+3869420,18,Croatia,Andrej Kramarić,Blocked,0.026674595,"[99.5, 27.0]",2022-12-09,Brazil
+3869420,19,Brazil,Vinícius José Paixão de Oliveira Júnior,Blocked,0.06970771,"[103.0, 34.8]",2022-12-09,Croatia
+3869420,20,Brazil,Neymar da Silva Santos Junior,Saved,0.025347186,"[107.2, 24.9]",2022-12-09,Croatia
+3869420,22,Brazil,Carlos Henrique Casimiro,Blocked,0.030699778,"[96.4, 49.8]",2022-12-09,Croatia
+3869420,29,Croatia,Ivan Perišić,Off T,0.012010745,"[100.8, 20.7]",2022-12-09,Brazil
+3869420,41,Brazil,Neymar da Silva Santos Junior,Saved,0.008240742,"[100.9, 17.2]",2022-12-09,Croatia
+3869420,50,Croatia,Ivan Perišić,Wayward,0.11005159,"[111.9, 41.4]",2022-12-09,Brazil
+3869420,54,Brazil,Neymar da Silva Santos Junior,Saved,0.16692519,"[112.6, 29.0]",2022-12-09,Croatia
+3869420,65,Brazil,Carlos Henrique Casimiro,Blocked,0.026057322,"[89.1, 28.8]",2022-12-09,Croatia
+3869420,65,Brazil,Lucas Tolentino Coelho de Lima,Saved,0.26807922,"[111.6, 34.5]",2022-12-09,Croatia
+3869420,66,Brazil,Éder Gabriel Militão,Blocked,0.04353941,"[101.4, 53.7]",2022-12-09,Croatia
+3869420,70,Croatia,Andrej Kramarić,Blocked,0.030721588,"[101.2, 57.3]",2022-12-09,Brazil
+3869420,75,Brazil,Neymar da Silva Santos Junior,Saved,0.12963046,"[114.1, 28.2]",2022-12-09,Croatia
+3869420,79,Brazil,Lucas Tolentino Coelho de Lima,Saved,0.092192985,"[104.6, 32.8]",2022-12-09,Croatia
+3869420,81,Brazil,Richarlison de Andrade,Off T,0.067200735,"[109.4, 41.0]",2022-12-09,Croatia
+3869420,84,Croatia,Nikola Vlašić,Blocked,0.026884926,"[107.0, 54.2]",2022-12-09,Brazil
+3869420,85,Brazil,Éder Gabriel Militão,Blocked,0.04975106,"[102.5, 50.1]",2022-12-09,Croatia
+3869420,85,Brazil,Éder Gabriel Militão,Blocked,0.06132018,"[104.7, 46.8]",2022-12-09,Croatia
+3869420,93,Brazil,Antony Matheus dos Santos,Saved,0.013999131,"[94.6, 56.8]",2022-12-09,Croatia
+3869420,91,Brazil,Pedro Guilherme Abreu dos Santos,Wayward,0.057022728,"[112.9, 49.4]",2022-12-09,Croatia
+3869420,100,Brazil,Pedro Guilherme Abreu dos Santos,Saved,0.113875866,"[107.2, 38.8]",2022-12-09,Croatia
+3869420,102,Croatia,Marcelo Brozović,Off T,0.12467693,"[103.7, 46.4]",2022-12-09,Brazil
+3869420,104,Brazil,Danilo Luiz da Silva,Off T,0.0154907415,"[96.9, 22.6]",2022-12-09,Croatia
+3869420,105,Brazil,Neymar da Silva Santos Junior,Goal,0.4674385,"[116.5, 47.2]",2022-12-09,Croatia
+3869420,116,Croatia,Bruno Petković,Goal,0.09977819,"[103.2, 38.6]",2022-12-09,Brazil
+3869420,119,Croatia,Lovro Majer,Off T,0.01192189,"[91.5, 55.0]",2022-12-09,Brazil
+3869420,121,Brazil,Carlos Henrique Casimiro,Saved,0.10135116,"[114.0, 31.0]",2022-12-09,Croatia
+3869220,11,Morocco,Achraf Hakimi Mouh,Off T,0.041958537,"[93.4, 27.5]",2022-12-06,Spain
+3869220,25,Spain,Marco Asensio Willemsen,Off T,0.025564773,"[115.0, 25.0]",2022-12-06,Morocco
+3869220,32,Morocco,Noussair Mazraoui,Saved,0.023416335,"[89.4, 37.7]",2022-12-06,Spain
+3869220,41,Morocco,Nayef Aguerd,Off T,0.25141555,"[113.2, 43.7]",2022-12-06,Spain
+3869220,54,Spain,Daniel Olmo Carvajal,Saved,0.0073576192,"[110.2, 12.6]",2022-12-06,Morocco
+3869220,77,Spain,Daniel Olmo Carvajal,Off T,0.031760626,"[97.2, 31.3]",2022-12-06,Morocco
+3869220,81,Spain,Álvaro Borja Morata Martín,Wayward,0.017266534,"[118.8, 50.9]",2022-12-06,Morocco
+3869220,85,Morocco,Walid Cheddira,Saved Off Target,0.119254045,"[110.6, 40.8]",2022-12-06,Spain
+3869220,90,Spain,Álvaro Borja Morata Martín,Off T,0.049165204,"[115.3, 51.1]",2022-12-06,Morocco
+3869220,95,Spain,Aymeric Laporte,Blocked,0.04145577,"[107.7, 38.8]",2022-12-06,Morocco
+3869220,99,Spain,Alejandro Balde Martínez,Blocked,0.077706024,"[112.5, 28.9]",2022-12-06,Morocco
+3869220,102,Spain,Rodrigo Hernández Cascante,Off T,0.0056476467,"[79.9, 46.8]",2022-12-06,Morocco
+3869220,103,Morocco,Walid Cheddira,Saved,0.1301347,"[109.7, 47.1]",2022-12-06,Spain
+3869220,106,Spain,Marcos Llorente Moreno,Blocked,0.024551911,"[100.3, 53.3]",2022-12-06,Morocco
+3869220,105,Morocco,Abdelhamid Sabiri,Off T,0.004195439,"[59.6, 39.7]",2022-12-06,Spain
+3869220,120,Spain,Sergio Busquets i Burgos,Blocked,0.0709334,"[102.6, 47.1]",2022-12-06,Morocco
+3869220,121,Spain,Carlos Soler Barragán,Blocked,0.039505202,"[104.3, 44.4]",2022-12-06,Morocco
+3869220,122,Spain,Pablo Sarabia García,Post,0.10407615,"[117.8, 48.1]",2022-12-06,Morocco
+3869219,2,Japan,Shogo Taniguchi,Off T,0.11361285,"[112.6, 38.8]",2022-12-05,Croatia
+3869219,7,Croatia,Ivan Perišić,Saved,0.05943511,"[116.7, 29.0]",2022-12-05,Japan
+3869219,7,Croatia,Andrej Kramarić,Blocked,0.17775308,"[114.5, 38.3]",2022-12-05,Japan
+3869219,23,Croatia,Joško Gvardiol,Off T,0.061746918,"[101.1, 43.6]",2022-12-05,Japan
+3869219,40,Japan,Daichi Kamada,Wayward,0.08994952,"[114.1, 28.8]",2022-12-05,Croatia
+3869219,42,Japan,Daizen Maeda,Goal,0.45874894,"[113.5, 44.3]",2022-12-05,Croatia
+3869219,45,Japan,Daichi Kamada,Off T,0.03904812,"[94.7, 38.3]",2022-12-05,Croatia
+3869219,48,Croatia,Mateo Kovačić,Off T,0.02993381,"[100.1, 47.1]",2022-12-05,Japan
+3869219,49,Japan,Hidemasa Morita,Wayward,0.041140273,"[98.2, 36.8]",2022-12-05,Croatia
+3869219,54,Croatia,Ivan Perišić,Goal,0.02684295,"[106.0, 34.1]",2022-12-05,Japan
+3869219,56,Japan,Wataru Endo,Saved,0.019910807,"[94.4, 52.9]",2022-12-05,Croatia
+3869219,59,Japan,Wataru Endo,Blocked,0.020528734,"[90.0, 41.9]",2022-12-05,Croatia
+3869219,59,Japan,Hidemasa Morita,Blocked,0.052081473,"[97.8, 36.3]",2022-12-05,Croatia
+3869219,59,Japan,Ritsu Doan,Saved,0.056113943,"[100.4, 43.7]",2022-12-05,Croatia
+3869219,62,Croatia,Luka Modrić,Saved,0.031055314,"[96.3, 48.9]",2022-12-05,Japan
+3869219,65,Croatia,Ivan Perišić,Blocked,0.018378427,"[95.5, 48.2]",2022-12-05,Japan
+3869219,65,Croatia,Andrej Kramarić,Blocked,0.018472007,"[98.9, 23.8]",2022-12-05,Japan
+3869219,65,Croatia,Ante Budimir,Off T,0.10111922,"[109.5, 45.1]",2022-12-05,Japan
+3869219,73,Croatia,Mario Pašalić,Off T,0.035465226,"[107.5, 44.5]",2022-12-05,Japan
+3869219,76,Croatia,Ivan Perišić,Blocked,0.030077945,"[98.1, 30.4]",2022-12-05,Japan
+3869219,85,Croatia,Mario Pašalić,Off T,0.052599985,"[110.5, 42.8]",2022-12-05,Japan
+3869219,91,Japan,Shogo Taniguchi,Off T,0.0608747,"[114.6, 49.3]",2022-12-05,Croatia
+3869219,100,Croatia,Ivan Perišić,Blocked,0.07439702,"[107.2, 34.1]",2022-12-05,Japan
+3869219,100,Croatia,Borna Barišić,Blocked,0.015196718,"[95.1, 31.3]",2022-12-05,Japan
+3869219,104,Japan,Kaoru Mitoma,Saved,0.054134306,"[99.8, 34.6]",2022-12-05,Croatia
+3869219,104,Japan,Wataru Endo,Blocked,0.02615668,"[95.7, 37.1]",2022-12-05,Croatia
+3869219,104,Japan,Takumi Minamino,Blocked,0.03667642,"[102.6, 40.3]",2022-12-05,Croatia
+3869219,113,Croatia,Marko Livaja,Saved,0.047236525,"[112.8, 47.7]",2022-12-05,Japan
+3869219,120,Croatia,Mislav Oršić,Blocked,0.009676031,"[106.8, 19.7]",2022-12-05,Japan
+3869219,120,Croatia,Lovro Majer,Off T,0.06501122,"[99.8, 33.0]",2022-12-05,Japan
+3869253,6,Brazil,Neymar da Silva Santos Junior,Wayward,0.083826184,"[111.3, 44.4]",2022-12-05,South Korea
+3869253,6,Brazil,Vinícius José Paixão de Oliveira Júnior,Goal,0.13057186,"[110.0, 29.9]",2022-12-05,South Korea
+3869253,12,Brazil,Neymar da Silva Santos Junior,Goal,0.7835,"[108.0, 40.0]",2022-12-05,South Korea
+3869253,16,South Korea,Hee-Chan Hwang,Saved,0.016991004,"[90.4, 28.0]",2022-12-05,Brazil
+3869253,16,South Korea,In-Beom Hwang,Off T,0.026666574,"[91.7, 46.4]",2022-12-05,Brazil
+3869253,24,South Korea,Hee-Chan Hwang,Saved,0.0058221314,"[82.7, 33.0]",2022-12-05,Brazil
+3869253,28,Brazil,Richarlison de Andrade,Goal,0.5379008,"[110.7, 43.3]",2022-12-05,South Korea
+3869253,30,Brazil,Raphael Dias Belloli,Off T,0.02589997,"[94.7, 30.7]",2022-12-05,South Korea
+3869253,31,South Korea,Hee-Chan Hwang,Saved,0.017834108,"[119.3, 30.8]",2022-12-05,Brazil
+3869253,33,Brazil,Carlos Henrique Casimiro,Off T,0.029429397,"[93.6, 43.2]",2022-12-05,South Korea
+3869253,35,Brazil,Lucas Tolentino Coelho de Lima,Goal,0.08633457,"[110.0, 44.8]",2022-12-05,South Korea
+3869253,45,Brazil,Lucas Tolentino Coelho de Lima,Saved,0.2577265,"[112.0, 49.2]",2022-12-05,South Korea
+3869253,48,Brazil,Richarlison de Andrade,Saved,0.2681848,"[110.3, 51.6]",2022-12-05,South Korea
+3869253,48,Brazil,Neymar da Silva Santos Junior,Off T,0.26870713,"[111.4, 42.3]",2022-12-05,South Korea
+3869253,45,Brazil,Raphael Dias Belloli,Saved,0.04634087,"[104.3, 51.7]",2022-12-05,South Korea
+3869253,46,South Korea,Heung-Min Son,Saved,0.1490943,"[105.3, 27.9]",2022-12-05,Brazil
+3869253,53,Brazil,Raphael Dias Belloli,Saved,0.080992505,"[110.4, 50.6]",2022-12-05,South Korea
+3869253,53,Brazil,Vinícius José Paixão de Oliveira Júnior,Off T,0.05640157,"[110.4, 26.8]",2022-12-05,South Korea
+3869253,57,Brazil,Raphael Dias Belloli,Blocked,0.04321825,"[91.0, 34.0]",2022-12-05,South Korea
+3869253,61,Brazil,Raphael Dias Belloli,Saved,0.16284284,"[114.6, 51.1]",2022-12-05,South Korea
+3869253,67,South Korea,Hee-Chan Hwang,Saved,0.04724954,"[106.8, 51.7]",2022-12-05,Brazil
+3869253,75,South Korea,Seung-Ho Paik,Goal,0.023081098,"[93.7, 39.8]",2022-12-05,Brazil
+3869253,88,Brazil,Daniel Alves da Silva,Blocked,0.027839905,"[111.1, 53.1]",2022-12-05,South Korea
+3869253,89,Brazil,Gleison Bremer Silva Nascimento,Saved,0.34439024,"[116.1, 41.0]",2022-12-05,South Korea
+3869253,89,South Korea,Hee-Chan Hwang,Off T,0.058088522,"[112.9, 53.6]",2022-12-05,Brazil
+3869253,92,Brazil,Daniel Alves da Silva,Off T,0.027316706,"[88.4, 46.1]",2022-12-05,South Korea
+3869152,3,France,Raphaël Varane,Off T,0.1462742,"[114.3, 40.0]",2022-12-04,Poland
+3869152,10,France,Ousmane Dembélé,Blocked,0.040392082,"[116.0, 51.8]",2022-12-04,Poland
+3869152,12,France,Aurélien Djani Tchouaméni,Saved,0.017185243,"[87.8, 30.9]",2022-12-04,Poland
+3869152,16,France,Ousmane Dembélé,Saved,0.07651916,"[99.2, 46.7]",2022-12-04,Poland
+3869152,20,Poland,Robert Lewandowski,Off T,0.03323787,"[92.5, 43.3]",2022-12-04,France
+3869152,21,France,Jules Koundé,Saved,0.01624438,"[94.5, 56.1]",2022-12-04,Poland
+3869152,24,Poland,Przemysław Frankowski,Blocked,0.043646414,"[109.5, 24.7]",2022-12-04,France
+3869152,32,Poland,Robert Lewandowski,Blocked,0.042642463,"[94.8, 26.6]",2022-12-04,France
+3869152,33,Poland,Matty Cash,Wayward,0.023505978,"[99.1, 56.2]",2022-12-04,France
+3869152,34,France,Kylian Mbappé Lottin,Saved,0.047962468,"[111.5, 24.9]",2022-12-04,Poland
+3869152,35,France,Olivier Giroud,Wayward,0.046657436,"[105.2, 44.5]",2022-12-04,Poland
+3869152,37,Poland,Piotr Zieliński,Saved,0.13905574,"[106.6, 41.6]",2022-12-04,France
+3869152,37,Poland,Piotr Zieliński,Blocked,0.2098723,"[111.4, 43.9]",2022-12-04,France
+3869152,37,Poland,Jakub Kamiński,Blocked,0.07224382,"[114.1, 50.5]",2022-12-04,France
+3869152,43,France,Olivier Giroud,Goal,0.28635955,"[105.6, 32.3]",2022-12-04,Poland
+3869152,45,Poland,Jakub Kamiński,Blocked,0.03898995,"[108.8, 51.7]",2022-12-04,France
+3869152,47,France,Antoine Griezmann,Saved,0.008752431,"[106.9, 63.2]",2022-12-04,Poland
+3869152,47,France,Theo Bernard François Hernández,Off T,0.032634486,"[98.0, 38.5]",2022-12-04,Poland
+3869152,55,France,Kylian Mbappé Lottin,Blocked,0.02943752,"[102.0, 26.7]",2022-12-04,Poland
+3869152,62,France,Kylian Mbappé Lottin,Wayward,0.054253228,"[110.2, 26.3]",2022-12-04,Poland
+3869152,65,France,Olivier Giroud,Off T,0.12365263,"[115.8, 46.8]",2022-12-04,Poland
+3869152,70,Poland,Kamil Glik,Off T,0.041239407,"[114.0, 32.0]",2022-12-04,France
+3869152,73,France,Kylian Mbappé Lottin,Goal,0.08738103,"[104.8, 28.6]",2022-12-04,Poland
+3869152,80,France,Theo Bernard François Hernández,Off T,0.069959894,"[105.0, 33.4]",2022-12-04,Poland
+3869152,90,France,Kylian Mbappé Lottin,Goal,0.042708755,"[106.2, 25.2]",2022-12-04,Poland
+3869152,91,Poland,Robert Lewandowski,Wayward,0.061160102,"[105.6, 48.7]",2022-12-04,France
+3869152,93,Poland,Robert Lewandowski,Blocked,0.10443308,"[113.0, 40.0]",2022-12-04,France
+3869152,98,Poland,Robert Lewandowski,Goal,0.7835,"[108.0, 40.0]",2022-12-04,France
+3869117,2,United States,Christian Pulisic,Saved,0.3196895,"[107.1, 34.9]",2022-12-03,Netherlands
+3869117,9,Netherlands,Memphis Depay,Goal,0.16183718,"[104.9, 43.7]",2022-12-03,United States
+3869117,17,Netherlands,Daley Blind,Off T,0.07337185,"[103.6, 30.6]",2022-12-03,United States
+3869117,20,Netherlands,Memphis Depay,Off T,0.008920797,"[106.1, 62.1]",2022-12-03,United States
+3869117,42,United States,Timothy Weah,Saved,0.028368456,"[97.5, 53.3]",2022-12-03,Netherlands
+3869117,43,United States,Sergino Dest,Blocked,0.07418261,"[105.2, 46.2]",2022-12-03,Netherlands
+3869117,45,Netherlands,Daley Blind,Goal,0.2502288,"[107.6, 38.5]",2022-12-03,United States
+3869117,48,United States,Weston McKennie,Wayward,0.03899759,"[109.1, 36.5]",2022-12-03,Netherlands
+3869117,48,United States,Tim Ream,Saved,0.2582279,"[116.5, 37.1]",2022-12-03,Netherlands
+3869117,48,United States,Weston McKennie,Wayward,0.06857926,"[108.4, 37.0]",2022-12-03,Netherlands
+3869117,50,United States,Sergino Dest,Wayward,0.01609117,"[100.9, 57.3]",2022-12-03,Netherlands
+3869117,52,United States,Christian Pulisic,Saved,0.040512722,"[98.4, 27.3]",2022-12-03,Netherlands
+3869117,53,United States,Weston McKennie,Off T,0.053084504,"[102.1, 35.0]",2022-12-03,Netherlands
+3869117,60,Netherlands,Cody Mathès Gakpo,Blocked,0.053106464,"[100.0, 50.7]",2022-12-03,United States
+3869117,60,Netherlands,Memphis Depay,Saved,0.046333984,"[98.6, 47.0]",2022-12-03,United States
+3869117,62,United States,Timothy Weah,Blocked,0.04334448,"[99.1, 51.0]",2022-12-03,Netherlands
+3869117,70,Netherlands,Virgil van Dijk,Off T,0.08036702,"[111.8, 41.3]",2022-12-03,United States
+3869117,70,Netherlands,Teun Koopmeiners,Saved,0.04472613,"[94.5, 37.8]",2022-12-03,United States
+3869117,70,Netherlands,Memphis Depay,Saved,0.27671057,"[113.1, 34.4]",2022-12-03,United States
+3869117,73,United States,Giovanni Reyna,Off T,0.042619057,"[98.9, 49.9]",2022-12-03,Netherlands
+3869117,74,United States,Haji Wright,Blocked,0.046546377,"[115.2, 55.6]",2022-12-03,Netherlands
+3869117,75,United States,Haji Wright,Goal,0.3636808,"[115.1, 45.2]",2022-12-03,Netherlands
+3869117,77,Netherlands,Steven Bergwijn,Off T,0.25042096,"[109.5, 32.8]",2022-12-03,United States
+3869117,78,United States,Christian Pulisic,Saved,0.031073315,"[99.5, 25.3]",2022-12-03,Netherlands
+3869117,80,Netherlands,Denzel Dumfries,Goal,0.23592436,"[113.5, 44.3]",2022-12-03,United States
+3869117,85,United States,Walker Zimmerman,Off T,0.05674074,"[107.2, 43.0]",2022-12-03,Netherlands
+3869117,88,United States,Giovanni Reyna,Blocked,0.043403003,"[103.1, 51.4]",2022-12-03,Netherlands
+3869117,93,United States,Yunus Dimoara Musah,Blocked,0.054460905,"[103.9, 44.2]",2022-12-03,Netherlands
+3869117,94,United States,Haji Wright,Wayward,0.072495155,"[111.3, 40.2]",2022-12-03,Netherlands
+3857270,2,Uruguay,Mathías Olivera Miramontes,Off T,0.039672486,"[98.2, 27.8]",2022-11-28,Portugal
+3857270,2,Portugal,William Silva de Carvalho,Off T,0.048683427,"[104.9, 30.5]",2022-11-28,Uruguay
+3857270,7,Portugal,Bruno Miguel Borges Fernandes,Off T,0.014580331,"[90.8, 53.9]",2022-11-28,Uruguay
+3857270,11,Uruguay,José María Giménez de Vargas,Off T,0.050594334,"[109.4, 37.1]",2022-11-28,Portugal
+3857270,15,Portugal,João Félix Sequeira,Blocked,0.033737455,"[101.0, 30.9]",2022-11-28,Uruguay
+3857270,17,Portugal,Cristiano Ronaldo dos Santos Aveiro,Blocked,0.026755862,"[96.0, 23.4]",2022-11-28,Uruguay
+3857270,19,Portugal,Rúben Diogo Da Silva Neves,Blocked,0.015326656,"[92.4, 50.0]",2022-11-28,Uruguay
+3857270,31,Uruguay,Rodrigo Bentancur Colmán,Saved,0.49410823,"[106.8, 41.3]",2022-11-28,Portugal
+3857270,34,Portugal,Cristiano Ronaldo dos Santos Aveiro,Blocked,0.029249214,"[99.4, 24.7]",2022-11-28,Uruguay
+3857270,34,Portugal,João Félix Sequeira,Blocked,0.022321237,"[91.6, 31.8]",2022-11-28,Uruguay
+3857270,35,Uruguay,Rodrigo Bentancur Colmán,Wayward,0.07433986,"[108.4, 29.5]",2022-11-28,Portugal
+3857270,36,Portugal,Bruno Miguel Borges Fernandes,Blocked,0.028039778,"[93.1, 33.0]",2022-11-28,Uruguay
+3857270,51,Portugal,João Félix Sequeira,Off T,0.036293734,"[107.9, 27.1]",2022-11-28,Uruguay
+3857270,53,Portugal,Bruno Miguel Borges Fernandes,Goal,0.0077694156,"[99.4, 14.6]",2022-11-28,Uruguay
+3857270,56,Portugal,Cristiano Ronaldo dos Santos Aveiro,Wayward,0.007159395,"[84.9, 19.1]",2022-11-28,Uruguay
+3857270,57,Uruguay,Edinson Roberto Cavani Gómez,Off T,0.07401822,"[102.9, 39.7]",2022-11-28,Portugal
+3857270,59,Uruguay,Darwin Gabriel Núñez Ribeiro,Saved,0.03092143,"[92.8, 43.6]",2022-11-28,Portugal
+3857270,64,Uruguay,Mathías Olivera Miramontes,Blocked,0.041303303,"[108.1, 33.8]",2022-11-28,Portugal
+3857270,74,Uruguay,Maximiliano Gómez González,Post,0.047642853,"[99.2, 43.2]",2022-11-28,Portugal
+3857270,77,Uruguay,Luis Alberto Suárez Díaz,Off T,0.088375136,"[115.6, 34.0]",2022-11-28,Portugal
+3857270,78,Uruguay,Giorgian Daniel De Arrascaeta Benedetti,Saved,0.2560759,"[109.3, 50.0]",2022-11-28,Portugal
+3857270,82,Portugal,Rafael Alexandre Conceição Leão,Off T,0.026902085,"[95.3, 49.1]",2022-11-28,Uruguay
+3857270,85,Uruguay,Federico Santiago Valverde Dipetta,Off T,0.019629322,"[88.2, 44.5]",2022-11-28,Portugal
+3857270,92,Portugal,Bruno Miguel Borges Fernandes,Goal,0.7835,"[108.0, 40.0]",2022-11-28,Uruguay
+3857270,97,Portugal,Bruno Miguel Borges Fernandes,Saved,0.032710962,"[117.7, 50.0]",2022-11-28,Uruguay
+3857270,98,Portugal,Bruno Miguel Borges Fernandes,Post,0.100704454,"[100.6, 35.0]",2022-11-28,Uruguay
+3857263,6,Spain,Daniel Olmo Carvajal,Saved to Post,0.032144632,"[100.5, 26.1]",2022-11-27,Germany
+3857263,21,Spain,Jordi Alba Ramos,Off T,0.021667236,"[96.6, 23.3]",2022-11-27,Germany
+3857263,24,Germany,Serge Gnabry,Off T,0.028963488,"[102.8, 56.6]",2022-11-27,Spain
+3857263,25,Spain,Ferrán Torres García,Blocked,0.068952255,"[102.8, 46.4]",2022-11-27,Germany
+3857263,29,Germany,Antonio Rüdiger,Off T,0.0065071667,"[89.6, 25.9]",2022-11-27,Spain
+3857263,35,Spain,Ferrán Torres García,Blocked,0.04777013,"[109.8, 54.6]",2022-11-27,Germany
+3857263,44,Germany,Antonio Rüdiger,Saved,0.008851705,"[113.7, 60.2]",2022-11-27,Spain
+3857263,55,Germany,Joshua Kimmich,Saved,0.09558376,"[105.8, 40.6]",2022-11-27,Spain
+3857263,58,Spain,Daniel Olmo Carvajal,Saved,0.0118638035,"[85.8, 31.1]",2022-11-27,Germany
+3857263,61,Spain,Álvaro Borja Morata Martín,Goal,0.31874228,"[113.2, 34.3]",2022-11-27,Germany
+3857263,63,Germany,Leon Goretzka,Blocked,0.036448006,"[96.2, 39.7]",2022-11-27,Spain
+3857263,64,Spain,Marco Asensio Willemsen,Off T,0.13836038,"[101.7, 45.4]",2022-11-27,Germany
+3857263,72,Germany,Niclas Füllkrug,Wayward,0.3730103,"[111.2, 41.5]",2022-11-27,Spain
+3857263,72,Germany,Jamal Musiala,Saved,0.28996226,"[110.1, 50.1]",2022-11-27,Spain
+3857263,72,Germany,Serge Gnabry,Blocked,0.024480116,"[104.9, 23.6]",2022-11-27,Spain
+3857263,73,Germany,Niclas Füllkrug,Off T,0.065169856,"[111.3, 42.8]",2022-11-27,Spain
+3857263,80,Germany,Joshua Kimmich,Blocked,0.053563386,"[98.9, 25.7]",2022-11-27,Spain
+3857263,82,Germany,Niclas Füllkrug,Goal,0.16441207,"[110.8, 51.9]",2022-11-27,Spain
+3857259,5,Serbia,Aleksandar Mitrović,Off T,0.06545554,"[110.4, 33.0]",2022-11-28,Cameroon
+3857259,10,Serbia,Aleksandar Mitrović,Post,0.016927462,"[114.4, 54.2]",2022-11-28,Cameroon
+3857259,10,Serbia,Filip Kostić,Off T,0.012009094,"[108.2, 21.4]",2022-11-28,Cameroon
+3857259,15,Cameroon,Nicolas Alexis Julio N'Koulou Ndoubena,Off T,0.046143826,"[95.9, 33.9]",2022-11-28,Serbia
+3857259,16,Serbia,Aleksandar Mitrović,Off T,0.063389905,"[108.9, 38.6]",2022-11-28,Cameroon
+3857259,18,Cameroon,Pierre Kunde Malong,Saved,0.009715966,"[108.1, 60.1]",2022-11-28,Serbia
+3857259,19,Cameroon,Pierre Kunde Malong,Blocked,0.029523049,"[96.8, 50.1]",2022-11-28,Serbia
+3857259,28,Cameroon,Nicolas Alexis Julio N'Koulou Ndoubena,Blocked,0.09064111,"[115.2, 33.5]",2022-11-28,Serbia
+3857259,28,Cameroon,Jean-Charles Castelletto,Goal,0.8945071,"[118.5, 43.2]",2022-11-28,Serbia
+3857259,42,Cameroon,Pierre Kunde Malong,Saved,0.0845098,"[103.5, 53.8]",2022-11-28,Serbia
+3857259,42,Cameroon,Pierre Kunde Malong,Off T,0.056867022,"[110.5, 55.1]",2022-11-28,Serbia
+3857259,45,Serbia,Strahinja Pavlović,Goal,0.07892812,"[110.7, 42.8]",2022-11-28,Cameroon
+3857259,47,Serbia,Sergej Milinković-Savić,Goal,0.058657028,"[99.6, 46.7]",2022-11-28,Cameroon
+3857259,50,Serbia,Aleksandar Mitrović,Blocked,0.08318807,"[98.4, 45.9]",2022-11-28,Cameroon
+3857259,51,Serbia,Saša Lukić,Blocked,0.039666813,"[103.0, 49.6]",2022-11-28,Cameroon
+3857259,52,Serbia,Aleksandar Mitrović,Goal,0.8974681,"[113.6, 40.2]",2022-11-28,Cameroon
+3857259,59,Cameroon,Vincent Paté Aboubakar,Blocked,0.05176351,"[106.5, 47.6]",2022-11-28,Serbia
+3857259,61,Cameroon,Karl Brillant Toko Ekambi,Saved,0.02132554,"[106.4, 24.5]",2022-11-28,Serbia
+3857259,62,Serbia,Sergej Milinković-Savić,Off T,0.10917903,"[96.4, 47.8]",2022-11-28,Cameroon
+3857259,62,Cameroon,Vincent Paté Aboubakar,Goal,0.28323865,"[104.4, 49.0]",2022-11-28,Serbia
+3857259,65,Cameroon,Jean-Eric Maxim Choupo-Moting,Goal,0.46942416,"[111.0, 37.0]",2022-11-28,Serbia
+3857259,69,Serbia,Nikola Milenković,Wayward,0.0304652,"[110.5, 45.7]",2022-11-28,Cameroon
+3857259,75,Serbia,Aleksandar Mitrović,Saved,0.10947208,"[110.1, 55.7]",2022-11-28,Cameroon
+3857259,77,Serbia,Sergej Milinković-Savić,Off T,0.032438725,"[95.2, 48.2]",2022-11-28,Cameroon
+3857259,86,Cameroon,Vincent Paté Aboubakar,Saved,0.025639288,"[94.0, 24.8]",2022-11-28,Serbia
+3857259,88,Serbia,Aleksandar Mitrović,Off T,0.1134657,"[105.1, 38.3]",2022-11-28,Cameroon
+3857259,94,Cameroon,Georges-Kévin Nkoudou Mbida,Saved,0.0070103277,"[103.3, 13.7]",2022-11-28,Serbia
+3857259,94,Serbia,Marko Grujić,Saved,0.027356416,"[92.3, 33.6]",2022-11-28,Cameroon
+3857283,4,Belgium,Michy Batshuayi Tunga,Saved,0.13561569,"[110.0, 29.6]",2022-11-27,Morocco
+3857283,15,Belgium,Kevin De Bruyne,Blocked,0.023734333,"[95.2, 30.1]",2022-11-27,Morocco
+3857283,16,Belgium,Amadou Onana,Off T,0.22733837,"[114.6, 38.6]",2022-11-27,Morocco
+3857283,18,Belgium,Thomas Meunier,Saved,0.050302412,"[101.1, 27.4]",2022-11-27,Morocco
+3857283,20,Morocco,Hakim Ziyech,Off T,0.010982664,"[88.5, 52.0]",2022-11-27,Belgium
+3857283,27,Morocco,Selim Amallah,Off T,0.054105066,"[106.0, 49.7]",2022-11-27,Belgium
+3857283,34,Morocco,Achraf Hakimi Mouh,Off T,0.054164495,"[109.4, 56.3]",2022-11-27,Belgium
+3857283,34,Belgium,Kevin De Bruyne,Blocked,0.021631707,"[94.1, 42.1]",2022-11-27,Morocco
+3857283,38,Belgium,Kevin De Bruyne,Off T,0.007375095,"[112.6, 6.7]",2022-11-27,Morocco
+3857283,49,Morocco,Hakim Ziyech,Saved,0.02991042,"[95.2, 48.1]",2022-11-27,Belgium
+3857283,51,Belgium,Eden Hazard,Saved,0.009158539,"[104.9, 58.7]",2022-11-27,Morocco
+3857283,51,Belgium,Amadou Onana,Off T,0.06452631,"[111.4, 40.8]",2022-11-27,Morocco
+3857283,56,Morocco,Sofiane Boufal,Off T,0.01369968,"[106.6, 22.0]",2022-11-27,Belgium
+3857283,60,Morocco,Noussair Mazraoui,Off T,0.022188112,"[87.4, 35.3]",2022-11-27,Belgium
+3857283,64,Belgium,Dries Mertens,Saved,0.065653466,"[97.9, 37.7]",2022-11-27,Morocco
+3857283,68,Morocco,Azzedine Ounahi,Off T,0.023304239,"[87.6, 38.2]",2022-11-27,Belgium
+3857283,72,Morocco,Romain Saïss,Goal,0.56495196,"[118.0, 36.4]",2022-11-27,Belgium
+3857283,81,Belgium,Jan Vertonghen,Off T,0.03727616,"[109.1, 37.6]",2022-11-27,Morocco
+3857283,90,Morocco,Abderrazak Hamdallah,Saved,0.036752854,"[116.6, 28.9]",2022-11-27,Belgium
+3857283,91,Morocco,Zakaria Aboukhlal,Goal,0.18104906,"[110.3, 46.8]",2022-11-27,Belgium
+3857286,15,Ecuador,Enner Remberto Valencia Lastra,Goal,0.7835,"[108.1, 40.1]",2022-11-20,Qatar
+3857286,28,Ecuador,Romario Andrés Ibarra Mina,Off T,0.057691004,"[96.5, 46.4]",2022-11-20,Qatar
+3857286,30,Ecuador,Enner Remberto Valencia Lastra,Goal,0.08878088,"[109.6, 38.0]",2022-11-20,Qatar
+3857286,32,Qatar,Abdelkarim Hassan Al Haj Fadlalla,Off T,0.0062173195,"[88.4, 22.4]",2022-11-20,Ecuador
+3857286,49,Qatar,Almoez Ali Zainalabiddin Abdulla,Off T,0.21267414,"[113.0, 43.7]",2022-11-20,Ecuador
+3857286,51,Ecuador,Angelo Smit Preciado Quiñónez,Off T,0.0066099144,"[91.7, 61.5]",2022-11-20,Qatar
+3857286,54,Ecuador,Romario Andrés Ibarra Mina,Saved,0.07894745,"[101.9, 32.3]",2022-11-20,Qatar
+3857286,61,Qatar,Pedro Miguel Correia,Off T,0.030855335,"[106.5, 47.5]",2022-11-20,Ecuador
+3857286,74,Qatar,Akram Hassan Afif,Off T,0.009109482,"[92.1, 23.1]",2022-11-20,Ecuador
+3857286,85,Qatar,Mohammed Muntari,Off T,0.045332674,"[100.2, 55.2]",2022-11-20,Ecuador
+3857286,94,Ecuador,Kevin José Rodríguez Cortez,Off T,0.13848205,"[112.3, 37.4]",2022-11-20,Qatar
+3857300,1,Argentina,Lionel Andrés Messi Cuccittini,Saved,0.15308252,"[104.5, 44.5]",2022-11-22,Saudi Arabia
+3857300,9,Argentina,Lionel Andrés Messi Cuccittini,Goal,0.7835,"[108.0, 40.0]",2022-11-22,Saudi Arabia
+3857300,20,Argentina,Alejandro Darío Gómez,Off T,0.011924569,"[98.4, 20.2]",2022-11-22,Saudi Arabia
+3857300,41,Argentina,Lautaro Javier Martínez,Blocked,0.0877444,"[113.2, 33.8]",2022-11-22,Saudi Arabia
+3857300,41,Argentina,Rodrigo Javier De Paul,Off T,0.050540753,"[101.1, 41.8]",2022-11-22,Saudi Arabia
+3857300,47,Saudi Arabia,Saleh Khalid Al Shehri,Goal,0.080592275,"[108.0, 29.6]",2022-11-22,Argentina
+3857300,52,Saudi Arabia,Nawaf Shaker Al Abid,Blocked,0.040064447,"[104.9, 54.1]",2022-11-22,Argentina
+3857300,52,Saudi Arabia,Salem Mohammed Al Dawsari,Goal,0.03280492,"[102.4, 25.3]",2022-11-22,Argentina
+3857300,62,Argentina,Lisandro Martínez,Blocked,0.33156127,"[111.1, 39.9]",2022-11-22,Saudi Arabia
+3857300,62,Argentina,Nicolás Alejandro Tagliafico,Saved,0.63619345,"[116.1, 37.2]",2022-11-22,Saudi Arabia
+3857300,68,Argentina,Lautaro Javier Martínez,Off T,0.077176735,"[116.5, 31.1]",2022-11-22,Saudi Arabia
+3857300,71,Argentina,Ángel Fabián Di María Hernández,Saved,0.0639515,"[111.4, 54.4]",2022-11-22,Saudi Arabia
+3857300,73,Argentina,Ángel Fabián Di María Hernández,Blocked,0.015201165,"[86.7, 57.3]",2022-11-22,Saudi Arabia
+3857300,75,Argentina,Enzo Fernandez,Off T,0.036932193,"[108.2, 39.6]",2022-11-22,Saudi Arabia
+3857300,79,Argentina,Lionel Andrés Messi Cuccittini,Off T,0.056788407,"[92.8, 47.1]",2022-11-22,Saudi Arabia
+3857300,83,Argentina,Lionel Andrés Messi Cuccittini,Saved,0.077553175,"[113.6, 32.2]",2022-11-22,Saudi Arabia
+3857300,90,Argentina,Nicolás Hernán Otamendi,Wayward,0.048093256,"[109.5, 37.8]",2022-11-22,Saudi Arabia
+3857300,100,Argentina,Julián Álvarez,Saved,0.061390053,"[112.5, 33.2]",2022-11-22,Saudi Arabia
+3857299,3,South Korea,Gue-Sung Cho,Blocked,0.09163986,"[111.9, 44.7]",2022-11-28,Ghana
+3857299,7,South Korea,Woo-Yeong Jeong,Blocked,0.03008143,"[96.7, 49.1]",2022-11-28,Ghana
+3857299,7,South Korea,Min Jae Kim,Wayward,0.059008703,"[114.5, 47.9]",2022-11-28,Ghana
+3857299,7,South Korea,In-Beom Hwang,Blocked,0.019586006,"[95.7, 54.9]",2022-11-28,Ghana
+3857299,17,South Korea,Gue-Sung Cho,Blocked,0.055939306,"[115.4, 30.4]",2022-11-28,Ghana
+3857299,23,Ghana,Mohamed Salisu,Goal,0.4040968,"[115.5, 37.9]",2022-11-28,South Korea
+3857299,33,Ghana,Mohammed Kudus,Goal,0.20083603,"[113.1, 41.8]",2022-11-28,South Korea
+3857299,44,South Korea,Woo-Young Jung,Off T,0.010946972,"[100.6, 20.0]",2022-11-28,Ghana
+3857299,49,Ghana,Thomas Teye Partey,Off T,0.21468838,"[118.3, 36.2]",2022-11-28,South Korea
+3857299,49,Ghana,Tariq Lamptey,Off T,0.07450179,"[104.8, 52.1]",2022-11-28,South Korea
+3857299,52,South Korea,Gue-Sung Cho,Saved,0.07677545,"[111.6, 36.7]",2022-11-28,Ghana
+3857299,57,South Korea,Gue-Sung Cho,Goal,0.23484395,"[112.6, 38.4]",2022-11-28,Ghana
+3857299,60,South Korea,Gue-Sung Cho,Goal,0.16237147,"[115.5, 43.7]",2022-11-28,Ghana
+3857299,67,Ghana,Iñaki Williams Arthuer,Wayward,0.10557394,"[109.2, 32.5]",2022-11-28,South Korea
+3857299,67,Ghana,Mohammed Kudus,Goal,0.15416233,"[108.4, 48.6]",2022-11-28,South Korea
+3857299,74,South Korea,Kang-In Lee,Saved,0.034794893,"[90.9, 45.4]",2022-11-28,Ghana
+3857299,75,South Korea,Heung-Min Son,Blocked,0.065267496,"[110.9, 29.2]",2022-11-28,Ghana
+3857299,75,South Korea,Kang-In Lee,Blocked,0.011154885,"[114.2, 56.1]",2022-11-28,Ghana
+3857299,75,South Korea,Jin-Su Kim,Blocked,0.19109753,"[112.0, 30.1]",2022-11-28,Ghana
+3857299,82,Ghana,Salis Abdul Samed,Off T,0.026676558,"[96.1, 40.1]",2022-11-28,South Korea
+3857299,83,South Korea,Jin-Su Kim,Off T,0.03964235,"[107.7, 23.5]",2022-11-28,Ghana
+3857299,85,South Korea,Jin-Su Kim,Wayward,0.054534186,"[112.0, 33.2]",2022-11-28,Ghana
+3857299,90,South Korea,Heung-Min Son,Blocked,0.060233038,"[109.6, 28.5]",2022-11-28,Ghana
+3857299,90,South Korea,Young-Gwon Kim,Blocked,0.064945966,"[103.6, 37.6]",2022-11-28,Ghana
+3857299,90,South Korea,Sang-Ho Na,Saved,0.05996953,"[113.0, 49.3]",2022-11-28,Ghana
+3857299,93,South Korea,Gue-Sung Cho,Saved,0.014336902,"[111.6, 23.1]",2022-11-28,Ghana
+3857299,99,South Korea,Kang-In Lee,Off T,0.025138553,"[98.5, 56.8]",2022-11-28,Ghana
+3857299,100,South Korea,Kyung-Won Kwon,Blocked,0.005484339,"[83.8, 54.1]",2022-11-28,Ghana
+3857293,15,Ghana,Jordan Ayew,Saved,0.07146578,"[101.8, 36.6]",2022-12-02,Uruguay
+3857293,20,Ghana,André Ayew Pelé,Saved,0.7835,"[108.0, 40.0]",2022-12-02,Uruguay
+3857293,22,Uruguay,Darwin Gabriel Núñez Ribeiro,Blocked,0.15781382,"[106.8, 29.0]",2022-12-02,Ghana
+3857293,25,Uruguay,Luis Alberto Suárez Díaz,Saved,0.2733873,"[108.6, 33.4]",2022-12-02,Ghana
+3857293,25,Uruguay,Giorgian Daniel De Arrascaeta Benedetti,Goal,0.71106935,"[118.0, 42.7]",2022-12-02,Ghana
+3857293,31,Uruguay,Giorgian Daniel De Arrascaeta Benedetti,Goal,0.16736692,"[110.8, 31.2]",2022-12-02,Ghana
+3857293,36,Ghana,Mohammed Kudus,Blocked,0.041819587,"[94.7, 45.8]",2022-12-02,Uruguay
+3857293,49,Uruguay,José María Giménez de Vargas,Off T,0.03238874,"[106.5, 42.5]",2022-12-02,Ghana
+3857293,45,Ghana,Osman Bukari,Off T,0.08441304,"[104.7, 50.8]",2022-12-02,Uruguay
+3857293,64,Uruguay,Facundo Pellistri Rebollo,Off T,0.099497445,"[107.5, 33.2]",2022-12-02,Ghana
+3857293,69,Uruguay,Federico Santiago Valverde Dipetta,Saved,0.0066686436,"[92.5, 22.5]",2022-12-02,Ghana
+3857293,69,Uruguay,Federico Santiago Valverde Dipetta,Off T,0.008103582,"[93.0, 21.1]",2022-12-02,Ghana
+3857293,70,Ghana,Mohammed Kudus,Off T,0.04665373,"[95.7, 47.2]",2022-12-02,Uruguay
+3857293,76,Uruguay,Federico Santiago Valverde Dipetta,Off T,0.003913026,"[59.0, 4.0]",2022-12-02,Ghana
+3857293,78,Ghana,Antoine Semenyo,Off T,0.12024433,"[109.6, 28.0]",2022-12-02,Uruguay
+3857293,80,Ghana,Mohammed Kudus,Saved,0.05586675,"[96.8, 42.8]",2022-12-02,Uruguay
+3857293,94,Ghana,Mohammed Kudus,Blocked,0.10750313,"[108.0, 43.6]",2022-12-02,Uruguay
+3857293,94,Uruguay,Maximiliano Gómez González,Saved,0.030132728,"[93.0, 49.4]",2022-12-02,Ghana
+3857293,95,Ghana,Kamaldeen Sulemana,Saved,0.081227794,"[99.5, 50.6]",2022-12-02,Uruguay
+3857293,96,Uruguay,Sebastián Coates Nión,Off T,0.103292696,"[108.8, 43.0]",2022-12-02,Ghana
+3857293,99,Uruguay,Diego Nicolás De La Cruz Arcosa,Saved,0.0429242,"[91.4, 33.9]",2022-12-02,Ghana
+3857291,4,Spain,Daniel Olmo Carvajal,Off T,0.20824905,"[112.4, 45.9]",2022-11-23,Costa Rica
+3857291,8,Spain,Marco Asensio Willemsen,Off T,0.1501565,"[102.5, 40.7]",2022-11-23,Costa Rica
+3857291,10,Spain,Daniel Olmo Carvajal,Goal,0.48925844,"[112.3, 39.3]",2022-11-23,Costa Rica
+3857291,20,Spain,Marco Asensio Willemsen,Goal,0.09218961,"[105.8, 33.4]",2022-11-23,Costa Rica
+3857291,30,Spain,Ferrán Torres García,Goal,0.7835,"[108.1, 40.1]",2022-11-23,Costa Rica
+3857291,42,Spain,Marco Asensio Willemsen,Blocked,0.015886325,"[91.7, 29.8]",2022-11-23,Costa Rica
+3857291,49,Spain,Marco Asensio Willemsen,Off T,0.04809784,"[110.5, 30.5]",2022-11-23,Costa Rica
+3857291,47,Spain,Marco Asensio Willemsen,Off T,0.08547543,"[100.5, 45.7]",2022-11-23,Costa Rica
+3857291,53,Spain,Ferrán Torres García,Goal,0.10498973,"[114.7, 49.4]",2022-11-23,Costa Rica
+3857291,61,Spain,Daniel Olmo Carvajal,Off T,0.017297672,"[92.0, 25.7]",2022-11-23,Costa Rica
+3857291,62,Spain,Álvaro Borja Morata Martín,Off T,0.06487478,"[112.0, 54.0]",2022-11-23,Costa Rica
+3857291,69,Spain,Daniel Olmo Carvajal,Saved,0.033574425,"[110.3, 29.3]",2022-11-23,Costa Rica
+3857291,73,Spain,Pablo Martín Páez Gavira,Goal,0.056229107,"[103.0, 45.8]",2022-11-23,Costa Rica
+3857291,89,Spain,Carlos Soler Barragán,Goal,0.33333436,"[109.7, 40.1]",2022-11-23,Costa Rica
+3857291,91,Spain,Álvaro Borja Morata Martín,Goal,0.16366571,"[104.0, 36.4]",2022-11-23,Costa Rica
+3857291,95,Spain,Carlos Soler Barragán,Off T,0.10654532,"[102.5, 42.5]",2022-11-23,Costa Rica
+3857291,97,Spain,Carlos Soler Barragán,Blocked,0.008599174,"[103.5, 16.7]",2022-11-23,Costa Rica
+3857281,1,Canada,Alphonso Davies,Goal,0.08130363,"[109.6, 36.4]",2022-11-27,Croatia
+3857281,21,Croatia,Marko Livaja,Saved,0.4341785,"[109.5, 36.8]",2022-11-27,Canada
+3857281,34,Croatia,Marko Livaja,Saved,0.24546398,"[109.9, 50.0]",2022-11-27,Canada
+3857281,35,Croatia,Andrej Kramarić,Goal,0.14639324,"[114.1, 29.4]",2022-11-27,Canada
+3857281,43,Croatia,Marko Livaja,Goal,0.13916126,"[101.0, 39.1]",2022-11-27,Canada
+3857281,46,Croatia,Andrej Kramarić,Off T,0.059277993,"[98.7, 33.1]",2022-11-27,Canada
+3857281,48,Canada,Jonathan Osorio,Off T,0.03829635,"[98.3, 50.1]",2022-11-27,Croatia
+3857281,53,Croatia,Andrej Kramarić,Saved,0.24875651,"[108.2, 42.1]",2022-11-27,Canada
+3857281,55,Canada,Jonathan David,Saved,0.052886155,"[96.4, 39.9]",2022-11-27,Croatia
+3857281,57,Canada,Tajon Buchanan,Blocked,0.023891453,"[99.8, 52.9]",2022-11-27,Croatia
+3857281,62,Canada,Alphonso Davies,Blocked,0.011981465,"[101.1, 59.8]",2022-11-27,Croatia
+3857281,69,Croatia,Andrej Kramarić,Goal,0.10933437,"[106.8, 47.1]",2022-11-27,Canada
+3857281,71,Croatia,Andrej Kramarić,Wayward,0.1355834,"[115.1, 46.8]",2022-11-27,Canada
+3857281,76,Canada,David Junior Hoilett,Off T,0.019849088,"[92.2, 33.0]",2022-11-27,Croatia
+3857281,77,Croatia,Ivan Perišić,Saved,0.031612467,"[115.3, 26.9]",2022-11-27,Canada
+3857281,77,Croatia,Marcelo Brozović,Saved,0.30414897,"[110.3, 42.6]",2022-11-27,Canada
+3857281,81,Croatia,Ivan Perišić,Off T,0.02367336,"[96.0, 26.3]",2022-11-27,Canada
+3857281,89,Croatia,Mislav Oršić,Saved,0.045590583,"[98.2, 35.1]",2022-11-27,Canada
+3857281,92,Canada,David Junior Hoilett,Blocked,0.03737635,"[98.1, 33.5]",2022-11-27,Croatia
+3857281,92,Canada,David Junior Hoilett,Off T,0.02121069,"[99.5, 26.7]",2022-11-27,Croatia
+3857281,93,Croatia,Lovro Majer,Goal,0.68703645,"[109.2, 45.4]",2022-11-27,Canada
+3857280,1,Brazil,Frederico Rodrigues Santos,Wayward,0.29454654,"[108.7, 38.6]",2022-12-02,Cameroon
+3857280,1,Brazil,Antony Matheus dos Santos,Wayward,0.038875267,"[103.3, 25.5]",2022-12-02,Cameroon
+3857280,13,Brazil,Gabriel Teodoro Martinelli Silva,Saved,0.12449543,"[111.8, 34.5]",2022-12-02,Cameroon
+3857280,14,Brazil,Gabriel Fernando de Jesus,Off T,0.044797283,"[113.4, 48.9]",2022-12-02,Cameroon
+3857280,21,Brazil,Frederico Rodrigues Santos,Blocked,0.083684884,"[107.6, 39.2]",2022-12-02,Cameroon
+3857280,29,Brazil,Rodrygo Silva de Goes,Blocked,0.0651609,"[94.0, 42.7]",2022-12-02,Cameroon
+3857280,33,Brazil,Daniel Alves da Silva,Off T,0.06485747,"[96.7, 29.3]",2022-12-02,Cameroon
+3857280,37,Brazil,Antony Matheus dos Santos,Saved,0.033440635,"[105.6, 52.3]",2022-12-02,Cameroon
+3857280,45,Brazil,Gabriel Teodoro Martinelli Silva,Saved,0.047920834,"[101.3, 45.2]",2022-12-02,Cameroon
+3857280,46,Brazil,Rodrygo Silva de Goes,Off T,0.06651591,"[107.8, 50.0]",2022-12-02,Cameroon
+3857280,47,Cameroon,Bryan Mbeumo,Saved,0.11827337,"[113.5, 47.4]",2022-12-02,Brazil
+3857280,50,Cameroon,Vincent Paté Aboubakar,Off T,0.07058843,"[109.5, 54.0]",2022-12-02,Brazil
+3857280,52,Brazil,Gabriel Fernando de Jesus,Saved,0.27918908,"[111.9, 36.3]",2022-12-02,Cameroon
+3857280,53,Cameroon,Pierre Kunde Malong,Off T,0.006493906,"[91.8, 17.8]",2022-12-02,Brazil
+3857280,55,Brazil,Gabriel Teodoro Martinelli Silva,Saved,0.038835723,"[108.9, 25.7]",2022-12-02,Cameroon
+3857280,56,Brazil,Éder Gabriel Militão,Saved,0.075584605,"[105.3, 39.2]",2022-12-02,Cameroon
+3857280,57,Brazil,Antony Matheus dos Santos,Saved,0.037848417,"[101.0, 51.2]",2022-12-02,Cameroon
+3857280,72,Brazil,Bruno Guimarães Rodriguez Moura,Off T,0.086029716,"[99.9, 37.6]",2022-12-02,Cameroon
+3857280,77,Cameroon,Jules Olivier Ntcham,Saved,0.03332142,"[92.8, 35.5]",2022-12-02,Brazil
+3857280,79,Cameroon,Vincent Paté Aboubakar,Blocked,0.042308386,"[104.1, 25.5]",2022-12-02,Brazil
+3857280,80,Cameroon,Christopher Wooh,Wayward,0.05692788,"[106.3, 39.9]",2022-12-02,Brazil
+3857280,83,Brazil,Bruno Guimarães Rodriguez Moura,Blocked,0.14917652,"[114.9, 44.0]",2022-12-02,Cameroon
+3857280,88,Brazil,Pedro Guilherme Abreu dos Santos,Off T,0.18481041,"[104.2, 47.1]",2022-12-02,Cameroon
+3857280,91,Cameroon,Vincent Paté Aboubakar,Goal,0.05544736,"[106.7, 40.7]",2022-12-02,Brazil
+3857280,95,Brazil,Pedro Guilherme Abreu dos Santos,Off T,0.07645427,"[108.8, 37.5]",2022-12-02,Cameroon
+3857280,96,Brazil,Bruno Guimarães Rodriguez Moura,Saved,0.17098139,"[112.9, 39.8]",2022-12-02,Cameroon
+3857280,97,Brazil,Gabriel Teodoro Martinelli Silva,Off T,0.1945778,"[115.1, 36.0]",2022-12-02,Cameroon
+3857280,98,Brazil,Bruno Guimarães Rodriguez Moura,Off T,0.22043578,"[114.1, 35.3]",2022-12-02,Cameroon
+3857279,1,France,Ousmane Dembélé,Blocked,0.018982504,"[95.0, 47.8]",2022-11-22,Australia
+3857279,2,Australia,Riley McGree,Off T,0.030384658,"[89.5, 39.1]",2022-11-22,France
+3857279,8,Australia,Craig Goodwin,Goal,0.19147108,"[114.2, 31.3]",2022-11-22,France
+3857279,12,France,Theo Bernard François Hernández,Wayward,0.017692888,"[92.7, 34.0]",2022-11-22,Australia
+3857279,21,Australia,Mitchell Thomas Duke,Off T,0.017896876,"[91.1, 46.9]",2022-11-22,France
+3857279,25,France,Antoine Griezmann,Blocked,0.034694295,"[112.1, 52.7]",2022-11-22,Australia
+3857279,26,France,Adrien Rabiot,Goal,0.16905431,"[111.6, 42.0]",2022-11-22,Australia
+3857279,28,France,Olivier Giroud,Off T,0.17925091,"[112.3, 39.8]",2022-11-22,Australia
+3857279,31,France,Olivier Giroud,Goal,0.77927965,"[110.5, 39.2]",2022-11-22,Australia
+3857279,36,France,Kylian Mbappé Lottin,Blocked,0.08709453,"[105.0, 47.2]",2022-11-22,Australia
+3857279,36,France,Olivier Giroud,Off T,0.14067347,"[104.5, 38.9]",2022-11-22,Australia
+3857279,39,France,Ousmane Dembélé,Off T,0.08098688,"[106.5, 38.2]",2022-11-22,Australia
+3857279,41,France,Antoine Griezmann,Off T,0.04884043,"[99.5, 47.5]",2022-11-22,Australia
+3857279,44,France,Kylian Mbappé Lottin,Off T,0.5517509,"[112.9, 40.2]",2022-11-22,Australia
+3857279,46,Australia,Jackson Irvine,Post,0.083539926,"[110.1, 43.4]",2022-11-22,France
+3857279,49,France,Aurélien Djani Tchouaméni,Blocked,0.035826564,"[96.3, 40.8]",2022-11-22,Australia
+3857279,49,France,Olivier Giroud,Off T,0.07860331,"[111.6, 44.2]",2022-11-22,Australia
+3857279,60,France,Kylian Mbappé Lottin,Blocked,0.12751806,"[107.5, 31.1]",2022-11-22,Australia
+3857279,62,France,Kylian Mbappé Lottin,Blocked,0.07606661,"[109.2, 30.1]",2022-11-22,Australia
+3857279,62,France,Ibrahima Konaté,Off T,0.096129,"[113.0, 40.0]",2022-11-22,Australia
+3857279,63,France,Kylian Mbappé Lottin,Blocked,0.027555656,"[108.0, 25.2]",2022-11-22,Australia
+3857279,66,France,Antoine Griezmann,Blocked,0.17584424,"[105.3, 36.2]",2022-11-22,Australia
+3857279,66,France,Kylian Mbappé Lottin,Wayward,0.013371275,"[115.7, 24.7]",2022-11-22,Australia
+3857279,67,France,Kylian Mbappé Lottin,Goal,0.14142905,"[113.5, 42.2]",2022-11-22,Australia
+3857279,70,France,Olivier Giroud,Goal,0.16888039,"[113.5, 42.6]",2022-11-22,Australia
+3857279,89,France,Ibrahima Konaté,Saved,0.07988335,"[112.1, 41.4]",2022-11-22,Australia
+3857279,90,France,Theo Bernard François Hernández,Saved,0.041087516,"[112.8, 32.1]",2022-11-22,Australia
+3857262,4,Portugal,Ricardo Jorge Luz Horta,Goal,0.29158956,"[113.6, 47.0]",2022-12-02,South Korea
+3857262,14,Portugal,João Pedro Cavaco Cancelo,Saved,0.010523141,"[117.5, 20.6]",2022-12-02,South Korea
+3857262,15,South Korea,Heung-Min Son,Blocked,0.011031977,"[108.5, 21.6]",2022-12-02,Portugal
+3857262,16,South Korea,Gue-Sung Cho,Saved,0.040536147,"[111.1, 32.0]",2022-12-02,Portugal
+3857262,26,South Korea,Young-Gwon Kim,Goal,0.6242964,"[116.7, 38.0]",2022-12-02,Portugal
+3857262,30,South Korea,In-Beom Hwang,Blocked,0.020656463,"[98.2, 31.4]",2022-12-02,Portugal
+3857262,33,Portugal,José Diogo Dalot Teixeira,Saved,0.036435805,"[92.8, 40.0]",2022-12-02,South Korea
+3857262,34,Portugal,Vitor Machado Ferreira,Saved,0.017112639,"[91.6, 45.7]",2022-12-02,South Korea
+3857262,36,Portugal,Cristiano Ronaldo dos Santos Aveiro,Blocked,0.022429451,"[110.6, 56.3]",2022-12-02,South Korea
+3857262,39,South Korea,Heung-Min Son,Saved,0.024709688,"[94.6, 44.2]",2022-12-02,Portugal
+3857262,40,Portugal,Matheus Luiz Nunes,Off T,0.007849269,"[92.6, 58.9]",2022-12-02,South Korea
+3857262,41,Portugal,Vitor Machado Ferreira,Saved,0.03675865,"[97.8, 46.9]",2022-12-02,South Korea
+3857262,41,Portugal,Cristiano Ronaldo dos Santos Aveiro,Off T,0.28873095,"[112.7, 35.0]",2022-12-02,South Korea
+3857262,43,Portugal,Ricardo Jorge Luz Horta,Saved,0.11468789,"[104.3, 43.4]",2022-12-02,South Korea
+3857262,46,Portugal,Ricardo Jorge Luz Horta,Blocked,0.052517958,"[101.8, 45.2]",2022-12-02,South Korea
+3857262,55,South Korea,Heung-Min Son,Blocked,0.023785131,"[104.5, 54.7]",2022-12-02,Portugal
+3857262,56,South Korea,Jae-Sung Lee,Off T,0.021393217,"[97.9, 50.9]",2022-12-02,Portugal
+3857262,65,South Korea,Heung-Min Son,Saved,0.039930075,"[98.1, 47.1]",2022-12-02,Portugal
+3857262,66,South Korea,In-Beom Hwang,Saved,0.100738145,"[98.4, 35.1]",2022-12-02,Portugal
+3857262,69,South Korea,Heung-Min Son,Blocked,0.04621987,"[111.1, 52.8]",2022-12-02,Portugal
+3857262,71,Portugal,Rafael Alexandre Conceição Leão,Off T,0.029762346,"[94.1, 55.0]",2022-12-02,South Korea
+3857262,73,South Korea,Kang-In Lee,Off T,0.023724081,"[88.0, 49.4]",2022-12-02,Portugal
+3857262,80,Portugal,João Maria Lobo Alves Palhinha Gonçalves,Blocked,0.021024177,"[88.8, 40.2]",2022-12-02,South Korea
+3857262,89,Portugal,João Pedro Cavaco Cancelo,Blocked,0.04430043,"[112.1, 25.0]",2022-12-02,South Korea
+3857262,90,South Korea,Hee-Chan Hwang,Goal,0.42196128,"[108.3, 44.6]",2022-12-02,Portugal
