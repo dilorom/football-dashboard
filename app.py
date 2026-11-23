@@ -22,14 +22,7 @@ team = st.selectbox("Choose a team", teams)
 
 team_shots = shots[shots["team"] == team]
 
-table = team_shots.groupby("player").agg(
-    shots=("player", "count"),
-    goals=("shot_outcome", lambda s: (s == "Goal").sum()),
-    xg=("shot_statsbomb_xg", "sum"),
-).reset_index()
-
-table["xg"] = table["xg"].round(2)
-table["goals_minus_xg"] = (table["goals"] - table["xg"]).round(2)
+table = player_table(team_shots)
 table = table.sort_values("xg", ascending=False)
 
 col1, col2, col3 = st.columns(3)
